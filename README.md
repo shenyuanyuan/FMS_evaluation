@@ -1,5 +1,11 @@
 # FMS_evaluation
 
+## steps to run 
+1. data used in this project can be downloaded from [here](https://doi.org/10.25452/figshare.plus.c.5774969)
+1. use conda to build experiment environment
+```shell
+conda env create -f conda_env.yml
+```
 1. cd evaluation/st_gcn
 1. you can run the following pythons scripts in that directory
     1. evaluation/st_gcn/front_view_all_joints_st_gcn.py # get data from front view and use all the joints 
