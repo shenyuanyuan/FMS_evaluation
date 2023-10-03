@@ -1,0 +1,7 @@
+[2023-09-24 17:43:15,229 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106
+[2023-09-24 17:44:59,441 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106
+[2023-09-24 17:46:58,362 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106
+[2023-09-24 17:48:49,398 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106
+[2023-09-24 17:50:34,705 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106
+[2023-09-24 17:52:14,954 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106
+[2023-09-24 17:53:55,391 INFO] micro f1: 0.568, macro f1: 0.387, kappa: 0.106

@@ -1,0 +1,1467 @@
+[2023-07-17 17:46:53,472 INFO] Epoch: 0, Batch_index:0,  Loss: 1.06651,   Acc: 56.250%
+[2023-07-17 17:46:53,499 INFO] Epoch: 0, Batch_index:1,  Loss: 0.97153,   Acc: 62.500%
+[2023-07-17 17:46:53,525 INFO] Epoch: 0, Batch_index:2,  Loss: 0.90522,   Acc: 67.188%
+[2023-07-17 17:46:53,553 INFO] Epoch: 0, Batch_index:3,  Loss: 0.80958,   Acc: 73.438%
+[2023-07-17 17:46:53,632 INFO] Epoch: 0, Batch_index:4,  Loss: 0.89464,   Acc: 64.062%
+[2023-07-17 17:46:53,657 INFO] Epoch: 0, Batch_index:5,  Loss: 0.90653,   Acc: 64.062%
+[2023-07-17 17:46:53,731 INFO] Epoch: 0, Batch_index:6,  Loss: 0.72108,   Acc: 75.000%
+[2023-07-17 17:46:53,756 INFO] Epoch: 0, Batch_index:7,  Loss: 0.86852,   Acc: 65.625%
+[2023-07-17 17:46:53,833 INFO] Epoch: 0, Batch_index:8,  Loss: 0.96236,   Acc: 59.375%
+[2023-07-17 17:46:53,858 INFO] Epoch: 0, Batch_index:9,  Loss: 0.83016,   Acc: 67.188%
+[2023-07-17 17:46:53,933 INFO] Epoch: 0, Batch_index:10,  Loss: 0.63124,   Acc: 79.688%
+[2023-07-17 17:46:53,955 INFO] Epoch: 0, Batch_index:11,  Loss: 0.65691,   Acc: 78.125%
+[2023-07-17 17:46:54,028 INFO] Epoch: 0, Batch_index:12,  Loss: 0.80249,   Acc: 68.750%
+[2023-07-17 17:46:54,053 INFO] Epoch: 0, Batch_index:13,  Loss: 0.84808,   Acc: 64.062%
+[2023-07-17 17:46:54,130 INFO] Epoch: 0, Batch_index:14,  Loss: 0.69608,   Acc: 75.000%
+[2023-07-17 17:46:54,155 INFO] Epoch: 0, Batch_index:15,  Loss: 0.82284,   Acc: 67.188%
+[2023-07-17 17:46:54,233 INFO] Epoch: 0, Batch_index:16,  Loss: 0.86983,   Acc: 62.500%
+[2023-07-17 17:46:54,259 INFO] Epoch: 0, Batch_index:17,  Loss: 0.73288,   Acc: 73.438%
+[2023-07-17 17:46:54,333 INFO] Epoch: 0, Batch_index:18,  Loss: 0.63236,   Acc: 78.125%
+[2023-07-17 17:46:54,359 INFO] Epoch: 0, Batch_index:19,  Loss: 0.77361,   Acc: 68.750%
+[2023-07-17 17:46:54,371 INFO] Epoch: 0, Batch_index:20,  Loss: 0.80561,   Acc: 63.636%
+[2023-07-17 17:46:54,371 INFO] Epoch: 0,   Loss: 17.20805,   Acc: 68.474%
+[2023-07-17 17:46:54,371 INFO] In testphase ... 
+[2023-07-17 17:46:54,768 INFO] Test Epoch: 0, micro f1: 0.724, macro f1: 0.329, kappa: 0.044
+[2023-07-17 17:46:54,769 INFO] [[  5  49   1]
+ [  7 372   0]
+ [  1  86   0]]
+[2023-07-17 17:46:54,850 INFO] Epoch: 1, Batch_index:0,  Loss: 0.66507,   Acc: 73.438%
+[2023-07-17 17:46:54,928 INFO] Epoch: 1, Batch_index:1,  Loss: 0.92443,   Acc: 56.250%
+[2023-07-17 17:46:54,952 INFO] Epoch: 1, Batch_index:2,  Loss: 0.60600,   Acc: 79.688%
+[2023-07-17 17:46:54,975 INFO] Epoch: 1, Batch_index:3,  Loss: 0.60349,   Acc: 81.250%
+[2023-07-17 17:46:55,049 INFO] Epoch: 1, Batch_index:4,  Loss: 0.58823,   Acc: 84.375%
+[2023-07-17 17:46:55,127 INFO] Epoch: 1, Batch_index:5,  Loss: 0.68860,   Acc: 71.875%
+[2023-07-17 17:46:55,153 INFO] Epoch: 1, Batch_index:6,  Loss: 0.76793,   Acc: 68.750%
+[2023-07-17 17:46:55,230 INFO] Epoch: 1, Batch_index:7,  Loss: 0.63571,   Acc: 75.000%
+[2023-07-17 17:46:55,255 INFO] Epoch: 1, Batch_index:8,  Loss: 0.64438,   Acc: 73.438%
+[2023-07-17 17:46:55,330 INFO] Epoch: 1, Batch_index:9,  Loss: 0.92646,   Acc: 57.812%
+[2023-07-17 17:46:55,352 INFO] Epoch: 1, Batch_index:10,  Loss: 0.63326,   Acc: 76.562%
+[2023-07-17 17:46:55,374 INFO] Epoch: 1, Batch_index:11,  Loss: 0.69496,   Acc: 71.875%
+[2023-07-17 17:46:55,452 INFO] Epoch: 1, Batch_index:12,  Loss: 0.57570,   Acc: 76.562%
+[2023-07-17 17:46:55,477 INFO] Epoch: 1, Batch_index:13,  Loss: 0.75075,   Acc: 68.750%
+[2023-07-17 17:46:55,549 INFO] Epoch: 1, Batch_index:14,  Loss: 0.63915,   Acc: 76.562%
+[2023-07-17 17:46:55,571 INFO] Epoch: 1, Batch_index:15,  Loss: 0.58703,   Acc: 76.562%
+[2023-07-17 17:46:55,652 INFO] Epoch: 1, Batch_index:16,  Loss: 0.61784,   Acc: 73.438%
+[2023-07-17 17:46:55,677 INFO] Epoch: 1, Batch_index:17,  Loss: 0.70932,   Acc: 68.750%
+[2023-07-17 17:46:55,749 INFO] Epoch: 1, Batch_index:18,  Loss: 0.61095,   Acc: 76.562%
+[2023-07-17 17:46:55,772 INFO] Epoch: 1, Batch_index:19,  Loss: 0.63277,   Acc: 73.438%
+[2023-07-17 17:46:55,837 INFO] Epoch: 1, Batch_index:20,  Loss: 0.42607,   Acc: 90.909%
+[2023-07-17 17:46:55,837 INFO] Epoch: 1,   Loss: 13.92812,   Acc: 73.199%
+[2023-07-17 17:46:55,837 INFO] In testphase ... 
+[2023-07-17 17:46:56,153 INFO] Test Epoch: 1, micro f1: 0.735, macro f1: 0.402, kappa: 0.144
+[2023-07-17 17:46:56,154 INFO] [[  9  43   3]
+ [ 10 368   1]
+ [  3  78   6]]
+[2023-07-17 17:46:56,177 INFO] Epoch: 2, Batch_index:0,  Loss: 0.60904,   Acc: 73.438%
+[2023-07-17 17:46:56,252 INFO] Epoch: 2, Batch_index:1,  Loss: 0.48958,   Acc: 79.688%
+[2023-07-17 17:46:56,274 INFO] Epoch: 2, Batch_index:2,  Loss: 0.54715,   Acc: 79.688%
+[2023-07-17 17:46:56,348 INFO] Epoch: 2, Batch_index:3,  Loss: 0.50923,   Acc: 79.688%
+[2023-07-17 17:46:56,370 INFO] Epoch: 2, Batch_index:4,  Loss: 0.55508,   Acc: 82.812%
+[2023-07-17 17:46:56,448 INFO] Epoch: 2, Batch_index:5,  Loss: 0.59052,   Acc: 75.000%
+[2023-07-17 17:46:56,469 INFO] Epoch: 2, Batch_index:6,  Loss: 0.58523,   Acc: 75.000%
+[2023-07-17 17:46:56,547 INFO] Epoch: 2, Batch_index:7,  Loss: 0.47662,   Acc: 79.688%
+[2023-07-17 17:46:56,571 INFO] Epoch: 2, Batch_index:8,  Loss: 0.62764,   Acc: 73.438%
+[2023-07-17 17:46:56,649 INFO] Epoch: 2, Batch_index:9,  Loss: 0.50917,   Acc: 81.250%
+[2023-07-17 17:46:56,671 INFO] Epoch: 2, Batch_index:10,  Loss: 0.58461,   Acc: 71.875%
+[2023-07-17 17:46:56,748 INFO] Epoch: 2, Batch_index:11,  Loss: 0.56585,   Acc: 76.562%
+[2023-07-17 17:46:56,771 INFO] Epoch: 2, Batch_index:12,  Loss: 0.54496,   Acc: 79.688%
+[2023-07-17 17:46:56,848 INFO] Epoch: 2, Batch_index:13,  Loss: 0.46241,   Acc: 82.812%
+[2023-07-17 17:46:56,871 INFO] Epoch: 2, Batch_index:14,  Loss: 0.59754,   Acc: 76.562%
+[2023-07-17 17:46:56,951 INFO] Epoch: 2, Batch_index:15,  Loss: 0.57630,   Acc: 79.688%
+[2023-07-17 17:46:56,974 INFO] Epoch: 2, Batch_index:16,  Loss: 0.46824,   Acc: 81.250%
+[2023-07-17 17:46:57,049 INFO] Epoch: 2, Batch_index:17,  Loss: 0.46014,   Acc: 85.938%
+[2023-07-17 17:46:57,073 INFO] Epoch: 2, Batch_index:18,  Loss: 0.49442,   Acc: 82.812%
+[2023-07-17 17:46:57,149 INFO] Epoch: 2, Batch_index:19,  Loss: 0.51513,   Acc: 75.000%
+[2023-07-17 17:46:57,159 INFO] Epoch: 2, Batch_index:20,  Loss: 0.27501,   Acc: 100.000%
+[2023-07-17 17:46:57,159 INFO] Epoch: 2,   Loss: 11.04388,   Acc: 78.776%
+[2023-07-17 17:46:57,159 INFO] In testphase ... 
+[2023-07-17 17:46:57,454 INFO] Test Epoch: 2, micro f1: 0.718, macro f1: 0.385, kappa: 0.112
+[2023-07-17 17:46:57,455 INFO] [[  9  42   4]
+ [ 17 360   2]
+ [  2  80   5]]
+[2023-07-17 17:46:57,532 INFO] Epoch: 3, Batch_index:0,  Loss: 0.46380,   Acc: 79.688%
+[2023-07-17 17:46:57,556 INFO] Epoch: 3, Batch_index:1,  Loss: 0.38450,   Acc: 87.500%
+[2023-07-17 17:46:57,630 INFO] Epoch: 3, Batch_index:2,  Loss: 0.49746,   Acc: 73.438%
+[2023-07-17 17:46:57,652 INFO] Epoch: 3, Batch_index:3,  Loss: 0.41595,   Acc: 82.812%
+[2023-07-17 17:46:57,727 INFO] Epoch: 3, Batch_index:4,  Loss: 0.38338,   Acc: 84.375%
+[2023-07-17 17:46:57,749 INFO] Epoch: 3, Batch_index:5,  Loss: 0.38979,   Acc: 82.812%
+[2023-07-17 17:46:57,772 INFO] Epoch: 3, Batch_index:6,  Loss: 0.48963,   Acc: 78.125%
+[2023-07-17 17:46:57,852 INFO] Epoch: 3, Batch_index:7,  Loss: 0.36186,   Acc: 90.625%
+[2023-07-17 17:46:57,928 INFO] Epoch: 3, Batch_index:8,  Loss: 0.34520,   Acc: 89.062%
+[2023-07-17 17:46:57,950 INFO] Epoch: 3, Batch_index:9,  Loss: 0.35074,   Acc: 92.188%
+[2023-07-17 17:46:57,972 INFO] Epoch: 3, Batch_index:10,  Loss: 0.26041,   Acc: 96.875%
+[2023-07-17 17:46:58,051 INFO] Epoch: 3, Batch_index:11,  Loss: 0.33860,   Acc: 90.625%
+[2023-07-17 17:46:58,128 INFO] Epoch: 3, Batch_index:12,  Loss: 0.27724,   Acc: 93.750%
+[2023-07-17 17:46:58,149 INFO] Epoch: 3, Batch_index:13,  Loss: 0.42292,   Acc: 81.250%
+[2023-07-17 17:46:58,172 INFO] Epoch: 3, Batch_index:14,  Loss: 0.42462,   Acc: 78.125%
+[2023-07-17 17:46:58,250 INFO] Epoch: 3, Batch_index:15,  Loss: 0.29132,   Acc: 89.062%
+[2023-07-17 17:46:58,272 INFO] Epoch: 3, Batch_index:16,  Loss: 0.40604,   Acc: 85.938%
+[2023-07-17 17:46:58,351 INFO] Epoch: 3, Batch_index:17,  Loss: 0.37135,   Acc: 79.688%
+[2023-07-17 17:46:58,428 INFO] Epoch: 3, Batch_index:18,  Loss: 0.32114,   Acc: 85.938%
+[2023-07-17 17:46:58,449 INFO] Epoch: 3, Batch_index:19,  Loss: 0.24115,   Acc: 96.875%
+[2023-07-17 17:46:58,460 INFO] Epoch: 3, Batch_index:20,  Loss: 0.57270,   Acc: 72.727%
+[2023-07-17 17:46:58,460 INFO] Epoch: 3,   Loss: 8.00980,   Acc: 85.825%
+[2023-07-17 17:46:58,460 INFO] In testphase ... 
+[2023-07-17 17:46:58,834 INFO] Test Epoch: 3, micro f1: 0.714, macro f1: 0.437, kappa: 0.164
+[2023-07-17 17:46:58,835 INFO] [[ 12  38   5]
+ [ 20 348  11]
+ [  1  74  12]]
+[2023-07-17 17:46:58,858 INFO] Epoch: 4, Batch_index:0,  Loss: 0.32501,   Acc: 89.062%
+[2023-07-17 17:46:58,934 INFO] Epoch: 4, Batch_index:1,  Loss: 0.22496,   Acc: 96.875%
+[2023-07-17 17:46:58,956 INFO] Epoch: 4, Batch_index:2,  Loss: 0.26706,   Acc: 93.750%
+[2023-07-17 17:46:59,032 INFO] Epoch: 4, Batch_index:3,  Loss: 0.24502,   Acc: 95.312%
+[2023-07-17 17:46:59,056 INFO] Epoch: 4, Batch_index:4,  Loss: 0.24821,   Acc: 93.750%
+[2023-07-17 17:46:59,128 INFO] Epoch: 4, Batch_index:5,  Loss: 0.28557,   Acc: 93.750%
+[2023-07-17 17:46:59,151 INFO] Epoch: 4, Batch_index:6,  Loss: 0.25134,   Acc: 93.750%
+[2023-07-17 17:46:59,173 INFO] Epoch: 4, Batch_index:7,  Loss: 0.26863,   Acc: 93.750%
+[2023-07-17 17:46:59,251 INFO] Epoch: 4, Batch_index:8,  Loss: 0.32264,   Acc: 93.750%
+[2023-07-17 17:46:59,275 INFO] Epoch: 4, Batch_index:9,  Loss: 0.21906,   Acc: 96.875%
+[2023-07-17 17:46:59,350 INFO] Epoch: 4, Batch_index:10,  Loss: 0.20420,   Acc: 93.750%
+[2023-07-17 17:46:59,374 INFO] Epoch: 4, Batch_index:11,  Loss: 0.17899,   Acc: 96.875%
+[2023-07-17 17:46:59,449 INFO] Epoch: 4, Batch_index:12,  Loss: 0.23026,   Acc: 92.188%
+[2023-07-17 17:46:59,473 INFO] Epoch: 4, Batch_index:13,  Loss: 0.24722,   Acc: 93.750%
+[2023-07-17 17:46:59,549 INFO] Epoch: 4, Batch_index:14,  Loss: 0.24634,   Acc: 90.625%
+[2023-07-17 17:46:59,573 INFO] Epoch: 4, Batch_index:15,  Loss: 0.22649,   Acc: 95.312%
+[2023-07-17 17:46:59,651 INFO] Epoch: 4, Batch_index:16,  Loss: 0.32692,   Acc: 87.500%
+[2023-07-17 17:46:59,674 INFO] Epoch: 4, Batch_index:17,  Loss: 0.26719,   Acc: 87.500%
+[2023-07-17 17:46:59,750 INFO] Epoch: 4, Batch_index:18,  Loss: 0.19641,   Acc: 93.750%
+[2023-07-17 17:46:59,774 INFO] Epoch: 4, Batch_index:19,  Loss: 0.26720,   Acc: 87.500%
+[2023-07-17 17:46:59,836 INFO] Epoch: 4, Batch_index:20,  Loss: 0.21319,   Acc: 100.000%
+[2023-07-17 17:46:59,837 INFO] Epoch: 4,   Loss: 5.26189,   Acc: 93.029%
+[2023-07-17 17:46:59,837 INFO] In testphase ... 
+[2023-07-17 17:47:00,151 INFO] Test Epoch: 4, micro f1: 0.710, macro f1: 0.407, kappa: 0.123
+[2023-07-17 17:47:00,152 INFO] [[  8  45   2]
+ [ 17 351  11]
+ [  2  74  11]]
+[2023-07-17 17:47:00,175 INFO] Epoch: 5, Batch_index:0,  Loss: 0.21561,   Acc: 93.750%
+[2023-07-17 17:47:00,251 INFO] Epoch: 5, Batch_index:1,  Loss: 0.13071,   Acc: 100.000%
+[2023-07-17 17:47:00,275 INFO] Epoch: 5, Batch_index:2,  Loss: 0.19799,   Acc: 93.750%
+[2023-07-17 17:47:00,350 INFO] Epoch: 5, Batch_index:3,  Loss: 0.15868,   Acc: 96.875%
+[2023-07-17 17:47:00,375 INFO] Epoch: 5, Batch_index:4,  Loss: 0.14906,   Acc: 96.875%
+[2023-07-17 17:47:00,450 INFO] Epoch: 5, Batch_index:5,  Loss: 0.11414,   Acc: 100.000%
+[2023-07-17 17:47:00,473 INFO] Epoch: 5, Batch_index:6,  Loss: 0.15727,   Acc: 96.875%
+[2023-07-17 17:47:00,549 INFO] Epoch: 5, Batch_index:7,  Loss: 0.11551,   Acc: 100.000%
+[2023-07-17 17:47:00,573 INFO] Epoch: 5, Batch_index:8,  Loss: 0.15539,   Acc: 98.438%
+[2023-07-17 17:47:00,648 INFO] Epoch: 5, Batch_index:9,  Loss: 0.13746,   Acc: 98.438%
+[2023-07-17 17:47:00,671 INFO] Epoch: 5, Batch_index:10,  Loss: 0.15708,   Acc: 98.438%
+[2023-07-17 17:47:00,750 INFO] Epoch: 5, Batch_index:11,  Loss: 0.16288,   Acc: 96.875%
+[2023-07-17 17:47:00,773 INFO] Epoch: 5, Batch_index:12,  Loss: 0.15017,   Acc: 95.312%
+[2023-07-17 17:47:00,849 INFO] Epoch: 5, Batch_index:13,  Loss: 0.14267,   Acc: 98.438%
+[2023-07-17 17:47:00,873 INFO] Epoch: 5, Batch_index:14,  Loss: 0.11604,   Acc: 100.000%
+[2023-07-17 17:47:00,950 INFO] Epoch: 5, Batch_index:15,  Loss: 0.13128,   Acc: 100.000%
+[2023-07-17 17:47:00,974 INFO] Epoch: 5, Batch_index:16,  Loss: 0.13930,   Acc: 96.875%
+[2023-07-17 17:47:01,049 INFO] Epoch: 5, Batch_index:17,  Loss: 0.10098,   Acc: 100.000%
+[2023-07-17 17:47:01,073 INFO] Epoch: 5, Batch_index:18,  Loss: 0.17875,   Acc: 92.188%
+[2023-07-17 17:47:01,150 INFO] Epoch: 5, Batch_index:19,  Loss: 0.14585,   Acc: 95.312%
+[2023-07-17 17:47:01,159 INFO] Epoch: 5, Batch_index:20,  Loss: 0.14316,   Acc: 100.000%
+[2023-07-17 17:47:01,159 INFO] Epoch: 5,   Loss: 3.09999,   Acc: 97.444%
+[2023-07-17 17:47:01,159 INFO] In testphase ... 
+[2023-07-17 17:47:01,466 INFO] Test Epoch: 5, micro f1: 0.702, macro f1: 0.428, kappa: 0.149
+[2023-07-17 17:47:01,467 INFO] [[ 11  40   4]
+ [ 20 342  17]
+ [  3  71  13]]
+[2023-07-17 17:47:01,646 INFO] Epoch: 6, Batch_index:0,  Loss: 0.12435,   Acc: 98.438%
+[2023-07-17 17:47:01,669 INFO] Epoch: 6, Batch_index:1,  Loss: 0.10453,   Acc: 96.875%
+[2023-07-17 17:47:01,749 INFO] Epoch: 6, Batch_index:2,  Loss: 0.09955,   Acc: 100.000%
+[2023-07-17 17:47:01,774 INFO] Epoch: 6, Batch_index:3,  Loss: 0.11850,   Acc: 96.875%
+[2023-07-17 17:47:01,849 INFO] Epoch: 6, Batch_index:4,  Loss: 0.11119,   Acc: 100.000%
+[2023-07-17 17:47:01,872 INFO] Epoch: 6, Batch_index:5,  Loss: 0.11080,   Acc: 98.438%
+[2023-07-17 17:47:01,951 INFO] Epoch: 6, Batch_index:6,  Loss: 0.07707,   Acc: 100.000%
+[2023-07-17 17:47:01,973 INFO] Epoch: 6, Batch_index:7,  Loss: 0.10748,   Acc: 100.000%
+[2023-07-17 17:47:02,049 INFO] Epoch: 6, Batch_index:8,  Loss: 0.07882,   Acc: 100.000%
+[2023-07-17 17:47:02,074 INFO] Epoch: 6, Batch_index:9,  Loss: 0.05794,   Acc: 100.000%
+[2023-07-17 17:47:02,151 INFO] Epoch: 6, Batch_index:10,  Loss: 0.10565,   Acc: 95.312%
+[2023-07-17 17:47:02,174 INFO] Epoch: 6, Batch_index:11,  Loss: 0.08675,   Acc: 96.875%
+[2023-07-17 17:47:02,251 INFO] Epoch: 6, Batch_index:12,  Loss: 0.07171,   Acc: 100.000%
+[2023-07-17 17:47:02,329 INFO] Epoch: 6, Batch_index:13,  Loss: 0.17515,   Acc: 92.188%
+[2023-07-17 17:47:02,352 INFO] Epoch: 6, Batch_index:14,  Loss: 0.04453,   Acc: 100.000%
+[2023-07-17 17:47:02,378 INFO] Epoch: 6, Batch_index:15,  Loss: 0.09077,   Acc: 100.000%
+[2023-07-17 17:47:02,451 INFO] Epoch: 6, Batch_index:16,  Loss: 0.08982,   Acc: 98.438%
+[2023-07-17 17:47:02,528 INFO] Epoch: 6, Batch_index:17,  Loss: 0.05453,   Acc: 100.000%
+[2023-07-17 17:47:02,552 INFO] Epoch: 6, Batch_index:18,  Loss: 0.06412,   Acc: 100.000%
+[2023-07-17 17:47:02,575 INFO] Epoch: 6, Batch_index:19,  Loss: 0.08382,   Acc: 100.000%
+[2023-07-17 17:47:02,636 INFO] Epoch: 6, Batch_index:20,  Loss: 0.09558,   Acc: 100.000%
+[2023-07-17 17:47:02,636 INFO] Epoch: 6,   Loss: 1.95267,   Acc: 98.683%
+[2023-07-17 17:47:02,636 INFO] In testphase ... 
+[2023-07-17 17:47:02,944 INFO] Test Epoch: 6, micro f1: 0.702, macro f1: 0.469, kappa: 0.193
+[2023-07-17 17:47:02,946 INFO] [[ 17  35   3]
+ [ 29 333  17]
+ [  2  69  16]]
+[2023-07-17 17:47:02,967 INFO] Epoch: 7, Batch_index:0,  Loss: 0.06666,   Acc: 100.000%
+[2023-07-17 17:47:03,045 INFO] Epoch: 7, Batch_index:1,  Loss: 0.05135,   Acc: 100.000%
+[2023-07-17 17:47:03,068 INFO] Epoch: 7, Batch_index:2,  Loss: 0.05265,   Acc: 100.000%
+[2023-07-17 17:47:03,144 INFO] Epoch: 7, Batch_index:3,  Loss: 0.07731,   Acc: 100.000%
+[2023-07-17 17:47:03,167 INFO] Epoch: 7, Batch_index:4,  Loss: 0.08339,   Acc: 98.438%
+[2023-07-17 17:47:03,244 INFO] Epoch: 7, Batch_index:5,  Loss: 0.07780,   Acc: 96.875%
+[2023-07-17 17:47:03,266 INFO] Epoch: 7, Batch_index:6,  Loss: 0.05749,   Acc: 100.000%
+[2023-07-17 17:47:03,343 INFO] Epoch: 7, Batch_index:7,  Loss: 0.06090,   Acc: 100.000%
+[2023-07-17 17:47:03,364 INFO] Epoch: 7, Batch_index:8,  Loss: 0.04124,   Acc: 100.000%
+[2023-07-17 17:47:03,440 INFO] Epoch: 7, Batch_index:9,  Loss: 0.07004,   Acc: 98.438%
+[2023-07-17 17:47:03,462 INFO] Epoch: 7, Batch_index:10,  Loss: 0.06371,   Acc: 98.438%
+[2023-07-17 17:47:03,537 INFO] Epoch: 7, Batch_index:11,  Loss: 0.06100,   Acc: 100.000%
+[2023-07-17 17:47:03,557 INFO] Epoch: 7, Batch_index:12,  Loss: 0.05841,   Acc: 98.438%
+[2023-07-17 17:47:03,630 INFO] Epoch: 7, Batch_index:13,  Loss: 0.08252,   Acc: 98.438%
+[2023-07-17 17:47:03,651 INFO] Epoch: 7, Batch_index:14,  Loss: 0.08353,   Acc: 96.875%
+[2023-07-17 17:47:03,673 INFO] Epoch: 7, Batch_index:15,  Loss: 0.08113,   Acc: 98.438%
+[2023-07-17 17:47:03,749 INFO] Epoch: 7, Batch_index:16,  Loss: 0.05087,   Acc: 98.438%
+[2023-07-17 17:47:03,772 INFO] Epoch: 7, Batch_index:17,  Loss: 0.06885,   Acc: 100.000%
+[2023-07-17 17:47:03,848 INFO] Epoch: 7, Batch_index:18,  Loss: 0.06097,   Acc: 98.438%
+[2023-07-17 17:47:03,870 INFO] Epoch: 7, Batch_index:19,  Loss: 0.04821,   Acc: 100.000%
+[2023-07-17 17:47:03,928 INFO] Epoch: 7, Batch_index:20,  Loss: 0.05673,   Acc: 100.000%
+[2023-07-17 17:47:03,928 INFO] Epoch: 7,   Loss: 1.35476,   Acc: 99.070%
+[2023-07-17 17:47:03,928 INFO] In testphase ... 
+[2023-07-17 17:47:04,231 INFO] Test Epoch: 7, micro f1: 0.695, macro f1: 0.466, kappa: 0.186
+[2023-07-17 17:47:04,232 INFO] [[ 16  34   5]
+ [ 20 329  30]
+ [  3  67  17]]
+[2023-07-17 17:47:04,255 INFO] Epoch: 8, Batch_index:0,  Loss: 0.04306,   Acc: 100.000%
+[2023-07-17 17:47:04,329 INFO] Epoch: 8, Batch_index:1,  Loss: 0.04180,   Acc: 100.000%
+[2023-07-17 17:47:04,351 INFO] Epoch: 8, Batch_index:2,  Loss: 0.05498,   Acc: 100.000%
+[2023-07-17 17:47:04,373 INFO] Epoch: 8, Batch_index:3,  Loss: 0.04280,   Acc: 100.000%
+[2023-07-17 17:47:04,447 INFO] Epoch: 8, Batch_index:4,  Loss: 0.05215,   Acc: 100.000%
+[2023-07-17 17:47:04,469 INFO] Epoch: 8, Batch_index:5,  Loss: 0.03739,   Acc: 100.000%
+[2023-07-17 17:47:04,546 INFO] Epoch: 8, Batch_index:6,  Loss: 0.02863,   Acc: 100.000%
+[2023-07-17 17:47:04,569 INFO] Epoch: 8, Batch_index:7,  Loss: 0.06979,   Acc: 100.000%
+[2023-07-17 17:47:04,645 INFO] Epoch: 8, Batch_index:8,  Loss: 0.05972,   Acc: 98.438%
+[2023-07-17 17:47:04,667 INFO] Epoch: 8, Batch_index:9,  Loss: 0.06480,   Acc: 100.000%
+[2023-07-17 17:47:04,744 INFO] Epoch: 8, Batch_index:10,  Loss: 0.03423,   Acc: 100.000%
+[2023-07-17 17:47:04,766 INFO] Epoch: 8, Batch_index:11,  Loss: 0.04266,   Acc: 100.000%
+[2023-07-17 17:47:04,843 INFO] Epoch: 8, Batch_index:12,  Loss: 0.03872,   Acc: 98.438%
+[2023-07-17 17:47:04,865 INFO] Epoch: 8, Batch_index:13,  Loss: 0.06888,   Acc: 96.875%
+[2023-07-17 17:47:04,943 INFO] Epoch: 8, Batch_index:14,  Loss: 0.04362,   Acc: 100.000%
+[2023-07-17 17:47:04,967 INFO] Epoch: 8, Batch_index:15,  Loss: 0.04646,   Acc: 100.000%
+[2023-07-17 17:47:05,046 INFO] Epoch: 8, Batch_index:16,  Loss: 0.03640,   Acc: 100.000%
+[2023-07-17 17:47:05,068 INFO] Epoch: 8, Batch_index:17,  Loss: 0.03688,   Acc: 100.000%
+[2023-07-17 17:47:05,144 INFO] Epoch: 8, Batch_index:18,  Loss: 0.03588,   Acc: 100.000%
+[2023-07-17 17:47:05,167 INFO] Epoch: 8, Batch_index:19,  Loss: 0.03223,   Acc: 100.000%
+[2023-07-17 17:47:05,228 INFO] Epoch: 8, Batch_index:20,  Loss: 0.04079,   Acc: 100.000%
+[2023-07-17 17:47:05,228 INFO] Epoch: 8,   Loss: 0.95190,   Acc: 99.690%
+[2023-07-17 17:47:05,228 INFO] In testphase ... 
+[2023-07-17 17:47:05,473 INFO] Test Epoch: 8, micro f1: 0.704, macro f1: 0.430, kappa: 0.150
+[2023-07-17 17:47:05,474 INFO] [[ 16  39   0]
+ [ 24 343  12]
+ [  5  74   8]]
+[2023-07-17 17:47:05,552 INFO] Epoch: 9, Batch_index:0,  Loss: 0.02954,   Acc: 100.000%
+[2023-07-17 17:47:05,574 INFO] Epoch: 9, Batch_index:1,  Loss: 0.02883,   Acc: 100.000%
+[2023-07-17 17:47:05,648 INFO] Epoch: 9, Batch_index:2,  Loss: 0.02448,   Acc: 100.000%
+[2023-07-17 17:47:05,669 INFO] Epoch: 9, Batch_index:3,  Loss: 0.03325,   Acc: 100.000%
+[2023-07-17 17:47:05,746 INFO] Epoch: 9, Batch_index:4,  Loss: 0.03246,   Acc: 100.000%
+[2023-07-17 17:47:05,768 INFO] Epoch: 9, Batch_index:5,  Loss: 0.04815,   Acc: 100.000%
+[2023-07-17 17:47:05,845 INFO] Epoch: 9, Batch_index:6,  Loss: 0.03432,   Acc: 100.000%
+[2023-07-17 17:47:05,866 INFO] Epoch: 9, Batch_index:7,  Loss: 0.06373,   Acc: 98.438%
+[2023-07-17 17:47:05,943 INFO] Epoch: 9, Batch_index:8,  Loss: 0.01987,   Acc: 100.000%
+[2023-07-17 17:47:05,964 INFO] Epoch: 9, Batch_index:9,  Loss: 0.03703,   Acc: 100.000%
+[2023-07-17 17:47:06,038 INFO] Epoch: 9, Batch_index:10,  Loss: 0.03578,   Acc: 100.000%
+[2023-07-17 17:47:06,059 INFO] Epoch: 9, Batch_index:11,  Loss: 0.01984,   Acc: 100.000%
+[2023-07-17 17:47:06,130 INFO] Epoch: 9, Batch_index:12,  Loss: 0.03167,   Acc: 100.000%
+[2023-07-17 17:47:06,153 INFO] Epoch: 9, Batch_index:13,  Loss: 0.02515,   Acc: 100.000%
+[2023-07-17 17:47:06,228 INFO] Epoch: 9, Batch_index:14,  Loss: 0.02842,   Acc: 100.000%
+[2023-07-17 17:47:06,248 INFO] Epoch: 9, Batch_index:15,  Loss: 0.03624,   Acc: 100.000%
+[2023-07-17 17:47:06,270 INFO] Epoch: 9, Batch_index:16,  Loss: 0.02297,   Acc: 100.000%
+[2023-07-17 17:47:06,348 INFO] Epoch: 9, Batch_index:17,  Loss: 0.04494,   Acc: 100.000%
+[2023-07-17 17:47:06,370 INFO] Epoch: 9, Batch_index:18,  Loss: 0.02261,   Acc: 100.000%
+[2023-07-17 17:47:06,446 INFO] Epoch: 9, Batch_index:19,  Loss: 0.04897,   Acc: 98.438%
+[2023-07-17 17:47:06,456 INFO] Epoch: 9, Batch_index:20,  Loss: 0.02992,   Acc: 100.000%
+[2023-07-17 17:47:06,456 INFO] Epoch: 9,   Loss: 0.69816,   Acc: 99.845%
+[2023-07-17 17:47:06,456 INFO] In testphase ... 
+[2023-07-17 17:47:06,755 INFO] Test Epoch: 9, micro f1: 0.681, macro f1: 0.452, kappa: 0.174
+[2023-07-17 17:47:06,756 INFO] [[ 15  33   7]
+ [ 29 322  28]
+ [  3  66  18]]
+[2023-07-17 17:47:06,832 INFO] Epoch: 10, Batch_index:0,  Loss: 0.02099,   Acc: 100.000%
+[2023-07-17 17:47:06,855 INFO] Epoch: 10, Batch_index:1,  Loss: 0.04752,   Acc: 98.438%
+[2023-07-17 17:47:06,930 INFO] Epoch: 10, Batch_index:2,  Loss: 0.01916,   Acc: 100.000%
+[2023-07-17 17:47:06,951 INFO] Epoch: 10, Batch_index:3,  Loss: 0.02270,   Acc: 100.000%
+[2023-07-17 17:47:06,973 INFO] Epoch: 10, Batch_index:4,  Loss: 0.01676,   Acc: 100.000%
+[2023-07-17 17:47:07,047 INFO] Epoch: 10, Batch_index:5,  Loss: 0.02122,   Acc: 100.000%
+[2023-07-17 17:47:07,069 INFO] Epoch: 10, Batch_index:6,  Loss: 0.02158,   Acc: 100.000%
+[2023-07-17 17:47:07,147 INFO] Epoch: 10, Batch_index:7,  Loss: 0.02571,   Acc: 100.000%
+[2023-07-17 17:47:07,169 INFO] Epoch: 10, Batch_index:8,  Loss: 0.03942,   Acc: 100.000%
+[2023-07-17 17:47:07,245 INFO] Epoch: 10, Batch_index:9,  Loss: 0.02508,   Acc: 100.000%
+[2023-07-17 17:47:07,269 INFO] Epoch: 10, Batch_index:10,  Loss: 0.01880,   Acc: 100.000%
+[2023-07-17 17:47:07,345 INFO] Epoch: 10, Batch_index:11,  Loss: 0.02321,   Acc: 100.000%
+[2023-07-17 17:47:07,367 INFO] Epoch: 10, Batch_index:12,  Loss: 0.02095,   Acc: 100.000%
+[2023-07-17 17:47:07,446 INFO] Epoch: 10, Batch_index:13,  Loss: 0.02380,   Acc: 100.000%
+[2023-07-17 17:47:07,469 INFO] Epoch: 10, Batch_index:14,  Loss: 0.01973,   Acc: 100.000%
+[2023-07-17 17:47:07,545 INFO] Epoch: 10, Batch_index:15,  Loss: 0.02459,   Acc: 100.000%
+[2023-07-17 17:47:07,568 INFO] Epoch: 10, Batch_index:16,  Loss: 0.02903,   Acc: 100.000%
+[2023-07-17 17:47:07,644 INFO] Epoch: 10, Batch_index:17,  Loss: 0.01774,   Acc: 100.000%
+[2023-07-17 17:47:07,666 INFO] Epoch: 10, Batch_index:18,  Loss: 0.02565,   Acc: 100.000%
+[2023-07-17 17:47:07,744 INFO] Epoch: 10, Batch_index:19,  Loss: 0.02887,   Acc: 98.438%
+[2023-07-17 17:47:07,754 INFO] Epoch: 10, Batch_index:20,  Loss: 0.02667,   Acc: 100.000%
+[2023-07-17 17:47:07,754 INFO] Epoch: 10,   Loss: 0.51918,   Acc: 99.845%
+[2023-07-17 17:47:07,754 INFO] In testphase ... 
+[2023-07-17 17:47:08,062 INFO] Test Epoch: 10, micro f1: 0.701, macro f1: 0.440, kappa: 0.174
+[2023-07-17 17:47:08,063 INFO] [[ 14  36   5]
+ [ 23 338  18]
+ [  6  68  13]]
+[2023-07-17 17:47:08,138 INFO] Epoch: 11, Batch_index:0,  Loss: 0.01422,   Acc: 100.000%
+[2023-07-17 17:47:08,159 INFO] Epoch: 11, Batch_index:1,  Loss: 0.01413,   Acc: 100.000%
+[2023-07-17 17:47:08,228 INFO] Epoch: 11, Batch_index:2,  Loss: 0.02105,   Acc: 100.000%
+[2023-07-17 17:47:08,251 INFO] Epoch: 11, Batch_index:3,  Loss: 0.02088,   Acc: 100.000%
+[2023-07-17 17:47:08,272 INFO] Epoch: 11, Batch_index:4,  Loss: 0.02053,   Acc: 100.000%
+[2023-07-17 17:47:08,347 INFO] Epoch: 11, Batch_index:5,  Loss: 0.01473,   Acc: 100.000%
+[2023-07-17 17:47:08,371 INFO] Epoch: 11, Batch_index:6,  Loss: 0.02247,   Acc: 100.000%
+[2023-07-17 17:47:08,446 INFO] Epoch: 11, Batch_index:7,  Loss: 0.01845,   Acc: 100.000%
+[2023-07-17 17:47:08,467 INFO] Epoch: 11, Batch_index:8,  Loss: 0.01918,   Acc: 100.000%
+[2023-07-17 17:47:08,546 INFO] Epoch: 11, Batch_index:9,  Loss: 0.01894,   Acc: 100.000%
+[2023-07-17 17:47:08,568 INFO] Epoch: 11, Batch_index:10,  Loss: 0.01497,   Acc: 100.000%
+[2023-07-17 17:47:08,643 INFO] Epoch: 11, Batch_index:11,  Loss: 0.01263,   Acc: 100.000%
+[2023-07-17 17:47:08,665 INFO] Epoch: 11, Batch_index:12,  Loss: 0.01634,   Acc: 100.000%
+[2023-07-17 17:47:08,741 INFO] Epoch: 11, Batch_index:13,  Loss: 0.01421,   Acc: 100.000%
+[2023-07-17 17:47:08,762 INFO] Epoch: 11, Batch_index:14,  Loss: 0.01863,   Acc: 100.000%
+[2023-07-17 17:47:08,837 INFO] Epoch: 11, Batch_index:15,  Loss: 0.01904,   Acc: 100.000%
+[2023-07-17 17:47:08,858 INFO] Epoch: 11, Batch_index:16,  Loss: 0.01370,   Acc: 100.000%
+[2023-07-17 17:47:08,932 INFO] Epoch: 11, Batch_index:17,  Loss: 0.01671,   Acc: 100.000%
+[2023-07-17 17:47:08,953 INFO] Epoch: 11, Batch_index:18,  Loss: 0.01251,   Acc: 100.000%
+[2023-07-17 17:47:08,974 INFO] Epoch: 11, Batch_index:19,  Loss: 0.01754,   Acc: 100.000%
+[2023-07-17 17:47:09,037 INFO] Epoch: 11, Batch_index:20,  Loss: 0.23855,   Acc: 90.909%
+[2023-07-17 17:47:09,037 INFO] Epoch: 11,   Loss: 0.57940,   Acc: 99.923%
+[2023-07-17 17:47:09,037 INFO] In testphase ... 
+[2023-07-17 17:47:09,334 INFO] Test Epoch: 11, micro f1: 0.687, macro f1: 0.452, kappa: 0.182
+[2023-07-17 17:47:09,335 INFO] [[ 19  31   5]
+ [ 32 326  21]
+ [  6  68  13]]
+[2023-07-17 17:47:09,357 INFO] Epoch: 12, Batch_index:0,  Loss: 0.01252,   Acc: 100.000%
+[2023-07-17 17:47:09,430 INFO] Epoch: 12, Batch_index:1,  Loss: 0.02195,   Acc: 100.000%
+[2023-07-17 17:47:09,451 INFO] Epoch: 12, Batch_index:2,  Loss: 0.03350,   Acc: 100.000%
+[2023-07-17 17:47:09,472 INFO] Epoch: 12, Batch_index:3,  Loss: 0.04713,   Acc: 98.438%
+[2023-07-17 17:47:09,549 INFO] Epoch: 12, Batch_index:4,  Loss: 0.03689,   Acc: 100.000%
+[2023-07-17 17:47:09,570 INFO] Epoch: 12, Batch_index:5,  Loss: 0.06835,   Acc: 100.000%
+[2023-07-17 17:47:09,646 INFO] Epoch: 12, Batch_index:6,  Loss: 0.03156,   Acc: 100.000%
+[2023-07-17 17:47:09,668 INFO] Epoch: 12, Batch_index:7,  Loss: 0.08577,   Acc: 98.438%
+[2023-07-17 17:47:09,743 INFO] Epoch: 12, Batch_index:8,  Loss: 0.04667,   Acc: 100.000%
+[2023-07-17 17:47:09,765 INFO] Epoch: 12, Batch_index:9,  Loss: 0.07527,   Acc: 98.438%
+[2023-07-17 17:47:09,839 INFO] Epoch: 12, Batch_index:10,  Loss: 0.04782,   Acc: 100.000%
+[2023-07-17 17:47:09,860 INFO] Epoch: 12, Batch_index:11,  Loss: 0.03019,   Acc: 100.000%
+[2023-07-17 17:47:09,930 INFO] Epoch: 12, Batch_index:12,  Loss: 0.15161,   Acc: 96.875%
+[2023-07-17 17:47:09,951 INFO] Epoch: 12, Batch_index:13,  Loss: 0.04818,   Acc: 100.000%
+[2023-07-17 17:47:09,973 INFO] Epoch: 12, Batch_index:14,  Loss: 0.09134,   Acc: 98.438%
+[2023-07-17 17:47:10,047 INFO] Epoch: 12, Batch_index:15,  Loss: 0.04752,   Acc: 100.000%
+[2023-07-17 17:47:10,068 INFO] Epoch: 12, Batch_index:16,  Loss: 0.02660,   Acc: 100.000%
+[2023-07-17 17:47:10,144 INFO] Epoch: 12, Batch_index:17,  Loss: 0.03105,   Acc: 100.000%
+[2023-07-17 17:47:10,165 INFO] Epoch: 12, Batch_index:18,  Loss: 0.02762,   Acc: 100.000%
+[2023-07-17 17:47:10,241 INFO] Epoch: 12, Batch_index:19,  Loss: 0.03875,   Acc: 100.000%
+[2023-07-17 17:47:10,250 INFO] Epoch: 12, Batch_index:20,  Loss: 0.05409,   Acc: 100.000%
+[2023-07-17 17:47:10,250 INFO] Epoch: 12,   Loss: 1.05439,   Acc: 99.535%
+[2023-07-17 17:47:10,250 INFO] In testphase ... 
+[2023-07-17 17:47:10,549 INFO] Test Epoch: 12, micro f1: 0.724, macro f1: 0.442, kappa: 0.199
+[2023-07-17 17:47:10,550 INFO] [[  8  36  11]
+ [ 13 351  15]
+ [  0  69  18]]
+[2023-07-17 17:47:10,571 INFO] Epoch: 13, Batch_index:0,  Loss: 0.03817,   Acc: 100.000%
+[2023-07-17 17:47:10,649 INFO] Epoch: 13, Batch_index:1,  Loss: 0.03555,   Acc: 100.000%
+[2023-07-17 17:47:10,670 INFO] Epoch: 13, Batch_index:2,  Loss: 0.03191,   Acc: 100.000%
+[2023-07-17 17:47:10,746 INFO] Epoch: 13, Batch_index:3,  Loss: 0.03153,   Acc: 100.000%
+[2023-07-17 17:47:10,767 INFO] Epoch: 13, Batch_index:4,  Loss: 0.02094,   Acc: 100.000%
+[2023-07-17 17:47:10,846 INFO] Epoch: 13, Batch_index:5,  Loss: 0.03142,   Acc: 100.000%
+[2023-07-17 17:47:10,867 INFO] Epoch: 13, Batch_index:6,  Loss: 0.06056,   Acc: 98.438%
+[2023-07-17 17:47:10,942 INFO] Epoch: 13, Batch_index:7,  Loss: 0.03975,   Acc: 100.000%
+[2023-07-17 17:47:10,964 INFO] Epoch: 13, Batch_index:8,  Loss: 0.01518,   Acc: 100.000%
+[2023-07-17 17:47:11,038 INFO] Epoch: 13, Batch_index:9,  Loss: 0.10766,   Acc: 93.750%
+[2023-07-17 17:47:11,059 INFO] Epoch: 13, Batch_index:10,  Loss: 0.03302,   Acc: 100.000%
+[2023-07-17 17:47:11,130 INFO] Epoch: 13, Batch_index:11,  Loss: 0.03256,   Acc: 100.000%
+[2023-07-17 17:47:11,150 INFO] Epoch: 13, Batch_index:12,  Loss: 0.03251,   Acc: 100.000%
+[2023-07-17 17:47:11,174 INFO] Epoch: 13, Batch_index:13,  Loss: 0.01849,   Acc: 100.000%
+[2023-07-17 17:47:11,247 INFO] Epoch: 13, Batch_index:14,  Loss: 0.02126,   Acc: 100.000%
+[2023-07-17 17:47:11,268 INFO] Epoch: 13, Batch_index:15,  Loss: 0.02863,   Acc: 100.000%
+[2023-07-17 17:47:11,346 INFO] Epoch: 13, Batch_index:16,  Loss: 0.02928,   Acc: 100.000%
+[2023-07-17 17:47:11,368 INFO] Epoch: 13, Batch_index:17,  Loss: 0.03104,   Acc: 100.000%
+[2023-07-17 17:47:11,444 INFO] Epoch: 13, Batch_index:18,  Loss: 0.02384,   Acc: 100.000%
+[2023-07-17 17:47:11,465 INFO] Epoch: 13, Batch_index:19,  Loss: 0.06183,   Acc: 98.438%
+[2023-07-17 17:47:11,475 INFO] Epoch: 13, Batch_index:20,  Loss: 0.01817,   Acc: 100.000%
+[2023-07-17 17:47:11,475 INFO] Epoch: 13,   Loss: 0.74332,   Acc: 99.535%
+[2023-07-17 17:47:11,527 INFO] In testphase ... 
+[2023-07-17 17:47:11,765 INFO] Test Epoch: 13, micro f1: 0.706, macro f1: 0.489, kappa: 0.240
+[2023-07-17 17:47:11,766 INFO] [[ 21  29   5]
+ [ 25 330  24]
+ [  8  62  17]]
+[2023-07-17 17:47:11,843 INFO] Epoch: 14, Batch_index:0,  Loss: 0.01997,   Acc: 100.000%
+[2023-07-17 17:47:11,864 INFO] Epoch: 14, Batch_index:1,  Loss: 0.01807,   Acc: 100.000%
+[2023-07-17 17:47:11,937 INFO] Epoch: 14, Batch_index:2,  Loss: 0.02543,   Acc: 100.000%
+[2023-07-17 17:47:11,959 INFO] Epoch: 14, Batch_index:3,  Loss: 0.02477,   Acc: 100.000%
+[2023-07-17 17:47:12,030 INFO] Epoch: 14, Batch_index:4,  Loss: 0.02049,   Acc: 100.000%
+[2023-07-17 17:47:12,050 INFO] Epoch: 14, Batch_index:5,  Loss: 0.02369,   Acc: 100.000%
+[2023-07-17 17:47:12,071 INFO] Epoch: 14, Batch_index:6,  Loss: 0.01769,   Acc: 100.000%
+[2023-07-17 17:47:12,149 INFO] Epoch: 14, Batch_index:7,  Loss: 0.03003,   Acc: 100.000%
+[2023-07-17 17:47:12,171 INFO] Epoch: 14, Batch_index:8,  Loss: 0.01675,   Acc: 100.000%
+[2023-07-17 17:47:12,246 INFO] Epoch: 14, Batch_index:9,  Loss: 0.01488,   Acc: 100.000%
+[2023-07-17 17:47:12,267 INFO] Epoch: 14, Batch_index:10,  Loss: 0.01596,   Acc: 100.000%
+[2023-07-17 17:47:12,345 INFO] Epoch: 14, Batch_index:11,  Loss: 0.01278,   Acc: 100.000%
+[2023-07-17 17:47:12,367 INFO] Epoch: 14, Batch_index:12,  Loss: 0.02451,   Acc: 100.000%
+[2023-07-17 17:47:12,442 INFO] Epoch: 14, Batch_index:13,  Loss: 0.01216,   Acc: 100.000%
+[2023-07-17 17:47:12,463 INFO] Epoch: 14, Batch_index:14,  Loss: 0.01474,   Acc: 100.000%
+[2023-07-17 17:47:12,538 INFO] Epoch: 14, Batch_index:15,  Loss: 0.03133,   Acc: 100.000%
+[2023-07-17 17:47:12,559 INFO] Epoch: 14, Batch_index:16,  Loss: 0.01264,   Acc: 100.000%
+[2023-07-17 17:47:12,627 INFO] Epoch: 14, Batch_index:17,  Loss: 0.02221,   Acc: 100.000%
+[2023-07-17 17:47:12,649 INFO] Epoch: 14, Batch_index:18,  Loss: 0.01190,   Acc: 100.000%
+[2023-07-17 17:47:12,670 INFO] Epoch: 14, Batch_index:19,  Loss: 0.01146,   Acc: 100.000%
+[2023-07-17 17:47:12,727 INFO] Epoch: 14, Batch_index:20,  Loss: 0.02052,   Acc: 100.000%
+[2023-07-17 17:47:12,728 INFO] Epoch: 14,   Loss: 0.40198,   Acc: 100.000%
+[2023-07-17 17:47:12,728 INFO] In testphase ... 
+[2023-07-17 17:47:12,966 INFO] Test Epoch: 14, micro f1: 0.708, macro f1: 0.469, kappa: 0.198
+[2023-07-17 17:47:12,967 INFO] [[ 16  35   4]
+ [ 24 337  18]
+ [  2  69  16]]
+[2023-07-17 17:47:13,044 INFO] Epoch: 15, Batch_index:0,  Loss: 0.01549,   Acc: 100.000%
+[2023-07-17 17:47:13,064 INFO] Epoch: 15, Batch_index:1,  Loss: 0.01175,   Acc: 100.000%
+[2023-07-17 17:47:13,147 INFO] Epoch: 15, Batch_index:2,  Loss: 0.01104,   Acc: 100.000%
+[2023-07-17 17:47:13,168 INFO] Epoch: 15, Batch_index:3,  Loss: 0.00995,   Acc: 100.000%
+[2023-07-17 17:47:13,244 INFO] Epoch: 15, Batch_index:4,  Loss: 0.00814,   Acc: 100.000%
+[2023-07-17 17:47:13,266 INFO] Epoch: 15, Batch_index:5,  Loss: 0.02024,   Acc: 100.000%
+[2023-07-17 17:47:13,342 INFO] Epoch: 15, Batch_index:6,  Loss: 0.01109,   Acc: 100.000%
+[2023-07-17 17:47:13,367 INFO] Epoch: 15, Batch_index:7,  Loss: 0.00994,   Acc: 100.000%
+[2023-07-17 17:47:13,444 INFO] Epoch: 15, Batch_index:8,  Loss: 0.01372,   Acc: 100.000%
+[2023-07-17 17:47:13,465 INFO] Epoch: 15, Batch_index:9,  Loss: 0.01091,   Acc: 100.000%
+[2023-07-17 17:47:13,542 INFO] Epoch: 15, Batch_index:10,  Loss: 0.01646,   Acc: 100.000%
+[2023-07-17 17:47:13,562 INFO] Epoch: 15, Batch_index:11,  Loss: 0.01038,   Acc: 100.000%
+[2023-07-17 17:47:13,636 INFO] Epoch: 15, Batch_index:12,  Loss: 0.04122,   Acc: 100.000%
+[2023-07-17 17:47:13,658 INFO] Epoch: 15, Batch_index:13,  Loss: 0.02559,   Acc: 100.000%
+[2023-07-17 17:47:13,730 INFO] Epoch: 15, Batch_index:14,  Loss: 0.01228,   Acc: 100.000%
+[2023-07-17 17:47:13,751 INFO] Epoch: 15, Batch_index:15,  Loss: 0.00885,   Acc: 100.000%
+[2023-07-17 17:47:13,773 INFO] Epoch: 15, Batch_index:16,  Loss: 0.01188,   Acc: 100.000%
+[2023-07-17 17:47:13,847 INFO] Epoch: 15, Batch_index:17,  Loss: 0.00804,   Acc: 100.000%
+[2023-07-17 17:47:13,870 INFO] Epoch: 15, Batch_index:18,  Loss: 0.01108,   Acc: 100.000%
+[2023-07-17 17:47:13,946 INFO] Epoch: 15, Batch_index:19,  Loss: 0.00663,   Acc: 100.000%
+[2023-07-17 17:47:13,955 INFO] Epoch: 15, Batch_index:20,  Loss: 0.09343,   Acc: 100.000%
+[2023-07-17 17:47:13,955 INFO] Epoch: 15,   Loss: 0.36812,   Acc: 100.000%
+[2023-07-17 17:47:13,955 INFO] In testphase ... 
+[2023-07-17 17:47:14,249 INFO] Test Epoch: 15, micro f1: 0.702, macro f1: 0.507, kappa: 0.266
+[2023-07-17 17:47:14,251 INFO] [[ 21  26   8]
+ [ 31 321  27]
+ [  6  57  24]]
+[2023-07-17 17:47:14,273 INFO] Epoch: 16, Batch_index:0,  Loss: 0.00881,   Acc: 100.000%
+[2023-07-17 17:47:14,347 INFO] Epoch: 16, Batch_index:1,  Loss: 0.00613,   Acc: 100.000%
+[2023-07-17 17:47:14,368 INFO] Epoch: 16, Batch_index:2,  Loss: 0.01093,   Acc: 100.000%
+[2023-07-17 17:47:14,446 INFO] Epoch: 16, Batch_index:3,  Loss: 0.00923,   Acc: 100.000%
+[2023-07-17 17:47:14,468 INFO] Epoch: 16, Batch_index:4,  Loss: 0.01622,   Acc: 100.000%
+[2023-07-17 17:47:14,544 INFO] Epoch: 16, Batch_index:5,  Loss: 0.06103,   Acc: 98.438%
+[2023-07-17 17:47:14,565 INFO] Epoch: 16, Batch_index:6,  Loss: 0.05726,   Acc: 100.000%
+[2023-07-17 17:47:14,641 INFO] Epoch: 16, Batch_index:7,  Loss: 0.05052,   Acc: 98.438%
+[2023-07-17 17:47:14,662 INFO] Epoch: 16, Batch_index:8,  Loss: 0.01504,   Acc: 100.000%
+[2023-07-17 17:47:14,736 INFO] Epoch: 16, Batch_index:9,  Loss: 0.01857,   Acc: 100.000%
+[2023-07-17 17:47:14,757 INFO] Epoch: 16, Batch_index:10,  Loss: 0.01624,   Acc: 100.000%
+[2023-07-17 17:47:14,779 INFO] Epoch: 16, Batch_index:11,  Loss: 0.01469,   Acc: 100.000%
+[2023-07-17 17:47:14,848 INFO] Epoch: 16, Batch_index:12,  Loss: 0.01223,   Acc: 100.000%
+[2023-07-17 17:47:14,870 INFO] Epoch: 16, Batch_index:13,  Loss: 0.07036,   Acc: 96.875%
+[2023-07-17 17:47:14,946 INFO] Epoch: 16, Batch_index:14,  Loss: 0.01729,   Acc: 100.000%
+[2023-07-17 17:47:14,967 INFO] Epoch: 16, Batch_index:15,  Loss: 0.02219,   Acc: 100.000%
+[2023-07-17 17:47:15,045 INFO] Epoch: 16, Batch_index:16,  Loss: 0.02926,   Acc: 100.000%
+[2023-07-17 17:47:15,067 INFO] Epoch: 16, Batch_index:17,  Loss: 0.07795,   Acc: 96.875%
+[2023-07-17 17:47:15,142 INFO] Epoch: 16, Batch_index:18,  Loss: 0.01949,   Acc: 100.000%
+[2023-07-17 17:47:15,163 INFO] Epoch: 16, Batch_index:19,  Loss: 0.02110,   Acc: 100.000%
+[2023-07-17 17:47:15,173 INFO] Epoch: 16, Batch_index:20,  Loss: 0.03037,   Acc: 100.000%
+[2023-07-17 17:47:15,173 INFO] Epoch: 16,   Loss: 0.58490,   Acc: 99.535%
+[2023-07-17 17:47:15,173 INFO] In testphase ... 
+[2023-07-17 17:47:15,466 INFO] Test Epoch: 16, micro f1: 0.718, macro f1: 0.477, kappa: 0.210
+[2023-07-17 17:47:15,467 INFO] [[ 18  35   2]
+ [ 23 342  14]
+ [  3  70  14]]
+[2023-07-17 17:47:15,545 INFO] Epoch: 17, Batch_index:0,  Loss: 0.02496,   Acc: 100.000%
+[2023-07-17 17:47:15,568 INFO] Epoch: 17, Batch_index:1,  Loss: 0.01475,   Acc: 100.000%
+[2023-07-17 17:47:15,644 INFO] Epoch: 17, Batch_index:2,  Loss: 0.01072,   Acc: 100.000%
+[2023-07-17 17:47:15,666 INFO] Epoch: 17, Batch_index:3,  Loss: 0.01964,   Acc: 100.000%
+[2023-07-17 17:47:15,742 INFO] Epoch: 17, Batch_index:4,  Loss: 0.01065,   Acc: 100.000%
+[2023-07-17 17:47:15,763 INFO] Epoch: 17, Batch_index:5,  Loss: 0.02927,   Acc: 100.000%
+[2023-07-17 17:47:15,837 INFO] Epoch: 17, Batch_index:6,  Loss: 0.01128,   Acc: 100.000%
+[2023-07-17 17:47:15,860 INFO] Epoch: 17, Batch_index:7,  Loss: 0.00967,   Acc: 100.000%
+[2023-07-17 17:47:15,928 INFO] Epoch: 17, Batch_index:8,  Loss: 0.01794,   Acc: 100.000%
+[2023-07-17 17:47:15,949 INFO] Epoch: 17, Batch_index:9,  Loss: 0.01875,   Acc: 100.000%
+[2023-07-17 17:47:15,971 INFO] Epoch: 17, Batch_index:10,  Loss: 0.01225,   Acc: 100.000%
+[2023-07-17 17:47:16,047 INFO] Epoch: 17, Batch_index:11,  Loss: 0.00894,   Acc: 100.000%
+[2023-07-17 17:47:16,068 INFO] Epoch: 17, Batch_index:12,  Loss: 0.01204,   Acc: 100.000%
+[2023-07-17 17:47:16,144 INFO] Epoch: 17, Batch_index:13,  Loss: 0.01047,   Acc: 100.000%
+[2023-07-17 17:47:16,165 INFO] Epoch: 17, Batch_index:14,  Loss: 0.00969,   Acc: 100.000%
+[2023-07-17 17:47:16,246 INFO] Epoch: 17, Batch_index:15,  Loss: 0.01593,   Acc: 100.000%
+[2023-07-17 17:47:16,267 INFO] Epoch: 17, Batch_index:16,  Loss: 0.01272,   Acc: 100.000%
+[2023-07-17 17:47:16,343 INFO] Epoch: 17, Batch_index:17,  Loss: 0.02548,   Acc: 100.000%
+[2023-07-17 17:47:16,364 INFO] Epoch: 17, Batch_index:18,  Loss: 0.00701,   Acc: 100.000%
+[2023-07-17 17:47:16,437 INFO] Epoch: 17, Batch_index:19,  Loss: 0.01167,   Acc: 100.000%
+[2023-07-17 17:47:16,446 INFO] Epoch: 17, Batch_index:20,  Loss: 0.00734,   Acc: 100.000%
+[2023-07-17 17:47:16,446 INFO] Epoch: 17,   Loss: 0.30119,   Acc: 100.000%
+[2023-07-17 17:47:16,446 INFO] In testphase ... 
+[2023-07-17 17:47:16,739 INFO] Test Epoch: 17, micro f1: 0.697, macro f1: 0.435, kappa: 0.169
+[2023-07-17 17:47:16,740 INFO] [[ 11  37   7]
+ [ 20 336  23]
+ [  5  66  16]]
+[2023-07-17 17:47:16,761 INFO] Epoch: 18, Batch_index:0,  Loss: 0.00904,   Acc: 100.000%
+[2023-07-17 17:47:16,835 INFO] Epoch: 18, Batch_index:1,  Loss: 0.00582,   Acc: 100.000%
+[2023-07-17 17:47:16,856 INFO] Epoch: 18, Batch_index:2,  Loss: 0.00782,   Acc: 100.000%
+[2023-07-17 17:47:16,930 INFO] Epoch: 18, Batch_index:3,  Loss: 0.00714,   Acc: 100.000%
+[2023-07-17 17:47:16,951 INFO] Epoch: 18, Batch_index:4,  Loss: 0.01247,   Acc: 100.000%
+[2023-07-17 17:47:16,972 INFO] Epoch: 18, Batch_index:5,  Loss: 0.00728,   Acc: 100.000%
+[2023-07-17 17:47:17,048 INFO] Epoch: 18, Batch_index:6,  Loss: 0.01128,   Acc: 100.000%
+[2023-07-17 17:47:17,069 INFO] Epoch: 18, Batch_index:7,  Loss: 0.00797,   Acc: 100.000%
+[2023-07-17 17:47:17,467 INFO] Epoch: 18, Batch_index:8,  Loss: 0.01279,   Acc: 100.000%
+[2023-07-17 17:47:17,488 INFO] Epoch: 18, Batch_index:9,  Loss: 0.00814,   Acc: 100.000%
+[2023-07-17 17:47:17,542 INFO] Epoch: 18, Batch_index:10,  Loss: 0.00982,   Acc: 100.000%
+[2023-07-17 17:47:17,563 INFO] Epoch: 18, Batch_index:11,  Loss: 0.00658,   Acc: 100.000%
+[2023-07-17 17:47:17,636 INFO] Epoch: 18, Batch_index:12,  Loss: 0.00828,   Acc: 100.000%
+[2023-07-17 17:47:17,657 INFO] Epoch: 18, Batch_index:13,  Loss: 0.01193,   Acc: 100.000%
+[2023-07-17 17:47:17,730 INFO] Epoch: 18, Batch_index:14,  Loss: 0.01124,   Acc: 100.000%
+[2023-07-17 17:47:17,753 INFO] Epoch: 18, Batch_index:15,  Loss: 0.01115,   Acc: 100.000%
+[2023-07-17 17:47:17,773 INFO] Epoch: 18, Batch_index:16,  Loss: 0.01212,   Acc: 100.000%
+[2023-07-17 17:47:17,847 INFO] Epoch: 18, Batch_index:17,  Loss: 0.00975,   Acc: 100.000%
+[2023-07-17 17:47:17,869 INFO] Epoch: 18, Batch_index:18,  Loss: 0.00703,   Acc: 100.000%
+[2023-07-17 17:47:17,945 INFO] Epoch: 18, Batch_index:19,  Loss: 0.00781,   Acc: 100.000%
+[2023-07-17 17:47:17,955 INFO] Epoch: 18, Batch_index:20,  Loss: 0.02495,   Acc: 100.000%
+[2023-07-17 17:47:17,955 INFO] Epoch: 18,   Loss: 0.21041,   Acc: 100.000%
+[2023-07-17 17:47:17,955 INFO] In testphase ... 
+[2023-07-17 17:47:18,250 INFO] Test Epoch: 18, micro f1: 0.708, macro f1: 0.477, kappa: 0.216
+[2023-07-17 17:47:18,251 INFO] [[ 17  32   6]
+ [ 22 335  22]
+ [  4  66  17]]
+[2023-07-17 17:47:18,272 INFO] Epoch: 19, Batch_index:0,  Loss: 0.00497,   Acc: 100.000%
+[2023-07-17 17:47:18,553 INFO] Epoch: 19, Batch_index:1,  Loss: 0.00596,   Acc: 100.000%
+[2023-07-17 17:47:18,574 INFO] Epoch: 19, Batch_index:2,  Loss: 0.01178,   Acc: 100.000%
+[2023-07-17 17:47:18,644 INFO] Epoch: 19, Batch_index:3,  Loss: 0.00408,   Acc: 100.000%
+[2023-07-17 17:47:18,666 INFO] Epoch: 19, Batch_index:4,  Loss: 0.00437,   Acc: 100.000%
+[2023-07-17 17:47:18,742 INFO] Epoch: 19, Batch_index:5,  Loss: 0.00474,   Acc: 100.000%
+[2023-07-17 17:47:18,764 INFO] Epoch: 19, Batch_index:6,  Loss: 0.00753,   Acc: 100.000%
+[2023-07-17 17:47:18,837 INFO] Epoch: 19, Batch_index:7,  Loss: 0.00627,   Acc: 100.000%
+[2023-07-17 17:47:18,858 INFO] Epoch: 19, Batch_index:8,  Loss: 0.00647,   Acc: 100.000%
+[2023-07-17 17:47:18,928 INFO] Epoch: 19, Batch_index:9,  Loss: 0.01413,   Acc: 100.000%
+[2023-07-17 17:47:18,949 INFO] Epoch: 19, Batch_index:10,  Loss: 0.00503,   Acc: 100.000%
+[2023-07-17 17:47:18,970 INFO] Epoch: 19, Batch_index:11,  Loss: 0.00495,   Acc: 100.000%
+[2023-07-17 17:47:19,048 INFO] Epoch: 19, Batch_index:12,  Loss: 0.00951,   Acc: 100.000%
+[2023-07-17 17:47:19,068 INFO] Epoch: 19, Batch_index:13,  Loss: 0.01067,   Acc: 100.000%
+[2023-07-17 17:47:19,144 INFO] Epoch: 19, Batch_index:14,  Loss: 0.00678,   Acc: 100.000%
+[2023-07-17 17:47:19,166 INFO] Epoch: 19, Batch_index:15,  Loss: 0.00309,   Acc: 100.000%
+[2023-07-17 17:47:19,242 INFO] Epoch: 19, Batch_index:16,  Loss: 0.00855,   Acc: 100.000%
+[2023-07-17 17:47:19,263 INFO] Epoch: 19, Batch_index:17,  Loss: 0.00566,   Acc: 100.000%
+[2023-07-17 17:47:19,337 INFO] Epoch: 19, Batch_index:18,  Loss: 0.00823,   Acc: 100.000%
+[2023-07-17 17:47:19,358 INFO] Epoch: 19, Batch_index:19,  Loss: 0.00539,   Acc: 100.000%
+[2023-07-17 17:47:19,367 INFO] Epoch: 19, Batch_index:20,  Loss: 0.06478,   Acc: 100.000%
+[2023-07-17 17:47:19,367 INFO] Epoch: 19,   Loss: 0.20294,   Acc: 100.000%
+[2023-07-17 17:47:19,367 INFO] In testphase ... 
+[2023-07-17 17:47:19,666 INFO] Test Epoch: 19, micro f1: 0.695, macro f1: 0.466, kappa: 0.197
+[2023-07-17 17:47:19,667 INFO] [[ 16  33   6]
+ [ 24 328  27]
+ [  4  65  18]]
+[2023-07-17 17:47:19,743 INFO] Epoch: 20, Batch_index:0,  Loss: 0.00382,   Acc: 100.000%
+[2023-07-17 17:47:19,764 INFO] Epoch: 20, Batch_index:1,  Loss: 0.00448,   Acc: 100.000%
+[2023-07-17 17:47:19,841 INFO] Epoch: 20, Batch_index:2,  Loss: 0.01381,   Acc: 100.000%
+[2023-07-17 17:47:19,860 INFO] Epoch: 20, Batch_index:3,  Loss: 0.00996,   Acc: 100.000%
+[2023-07-17 17:47:19,930 INFO] Epoch: 20, Batch_index:4,  Loss: 0.05474,   Acc: 98.438%
+[2023-07-17 17:47:19,950 INFO] Epoch: 20, Batch_index:5,  Loss: 0.01142,   Acc: 100.000%
+[2023-07-17 17:47:19,971 INFO] Epoch: 20, Batch_index:6,  Loss: 0.00619,   Acc: 100.000%
+[2023-07-17 17:47:20,048 INFO] Epoch: 20, Batch_index:7,  Loss: 0.00608,   Acc: 100.000%
+[2023-07-17 17:47:20,069 INFO] Epoch: 20, Batch_index:8,  Loss: 0.00697,   Acc: 100.000%
+[2023-07-17 17:47:20,145 INFO] Epoch: 20, Batch_index:9,  Loss: 0.03392,   Acc: 98.438%
+[2023-07-17 17:47:20,167 INFO] Epoch: 20, Batch_index:10,  Loss: 0.04508,   Acc: 98.438%
+[2023-07-17 17:47:20,243 INFO] Epoch: 20, Batch_index:11,  Loss: 0.01671,   Acc: 100.000%
+[2023-07-17 17:47:20,264 INFO] Epoch: 20, Batch_index:12,  Loss: 0.00969,   Acc: 100.000%
+[2023-07-17 17:47:20,337 INFO] Epoch: 20, Batch_index:13,  Loss: 0.01652,   Acc: 100.000%
+[2023-07-17 17:47:20,357 INFO] Epoch: 20, Batch_index:14,  Loss: 0.00960,   Acc: 100.000%
+[2023-07-17 17:47:20,427 INFO] Epoch: 20, Batch_index:15,  Loss: 0.01132,   Acc: 100.000%
+[2023-07-17 17:47:20,448 INFO] Epoch: 20, Batch_index:16,  Loss: 0.01088,   Acc: 100.000%
+[2023-07-17 17:47:20,470 INFO] Epoch: 20, Batch_index:17,  Loss: 0.01751,   Acc: 100.000%
+[2023-07-17 17:47:20,548 INFO] Epoch: 20, Batch_index:18,  Loss: 0.00678,   Acc: 100.000%
+[2023-07-17 17:47:20,569 INFO] Epoch: 20, Batch_index:19,  Loss: 0.01374,   Acc: 100.000%
+[2023-07-17 17:47:20,630 INFO] Epoch: 20, Batch_index:20,  Loss: 0.00592,   Acc: 100.000%
+[2023-07-17 17:47:20,630 INFO] Epoch: 20,   Loss: 0.31514,   Acc: 99.768%
+[2023-07-17 17:47:20,630 INFO] In testphase ... 
+[2023-07-17 17:47:20,866 INFO] Test Epoch: 20, micro f1: 0.706, macro f1: 0.492, kappa: 0.243
+[2023-07-17 17:47:20,867 INFO] [[ 14  34   7]
+ [ 22 327  30]
+ [  3  57  27]]
+[2023-07-17 17:47:20,943 INFO] Epoch: 21, Batch_index:0,  Loss: 0.00966,   Acc: 100.000%
+[2023-07-17 17:47:20,964 INFO] Epoch: 21, Batch_index:1,  Loss: 0.01527,   Acc: 100.000%
+[2023-07-17 17:47:21,743 INFO] Epoch: 21, Batch_index:2,  Loss: 0.00990,   Acc: 100.000%
+[2023-07-17 17:47:21,766 INFO] Epoch: 21, Batch_index:3,  Loss: 0.00740,   Acc: 100.000%
+[2023-07-17 17:47:21,841 INFO] Epoch: 21, Batch_index:4,  Loss: 0.01033,   Acc: 100.000%
+[2023-07-17 17:47:21,863 INFO] Epoch: 21, Batch_index:5,  Loss: 0.00906,   Acc: 100.000%
+[2023-07-17 17:47:21,947 INFO] Epoch: 21, Batch_index:6,  Loss: 0.00749,   Acc: 100.000%
+[2023-07-17 17:47:21,970 INFO] Epoch: 21, Batch_index:7,  Loss: 0.02307,   Acc: 100.000%
+[2023-07-17 17:47:22,048 INFO] Epoch: 21, Batch_index:8,  Loss: 0.01185,   Acc: 100.000%
+[2023-07-17 17:47:22,070 INFO] Epoch: 21, Batch_index:9,  Loss: 0.00633,   Acc: 100.000%
+[2023-07-17 17:47:22,146 INFO] Epoch: 21, Batch_index:10,  Loss: 0.01319,   Acc: 100.000%
+[2023-07-17 17:47:22,168 INFO] Epoch: 21, Batch_index:11,  Loss: 0.00616,   Acc: 100.000%
+[2023-07-17 17:47:22,244 INFO] Epoch: 21, Batch_index:12,  Loss: 0.00652,   Acc: 100.000%
+[2023-07-17 17:47:22,266 INFO] Epoch: 21, Batch_index:13,  Loss: 0.00579,   Acc: 100.000%
+[2023-07-17 17:47:22,343 INFO] Epoch: 21, Batch_index:14,  Loss: 0.00500,   Acc: 100.000%
+[2023-07-17 17:47:22,365 INFO] Epoch: 21, Batch_index:15,  Loss: 0.00786,   Acc: 100.000%
+[2023-07-17 17:47:22,443 INFO] Epoch: 21, Batch_index:16,  Loss: 0.00580,   Acc: 100.000%
+[2023-07-17 17:47:22,466 INFO] Epoch: 21, Batch_index:17,  Loss: 0.00860,   Acc: 100.000%
+[2023-07-17 17:47:22,542 INFO] Epoch: 21, Batch_index:18,  Loss: 0.00420,   Acc: 100.000%
+[2023-07-17 17:47:22,564 INFO] Epoch: 21, Batch_index:19,  Loss: 0.00513,   Acc: 100.000%
+[2023-07-17 17:47:22,574 INFO] Epoch: 21, Batch_index:20,  Loss: 0.00427,   Acc: 100.000%
+[2023-07-17 17:47:22,574 INFO] Epoch: 21,   Loss: 0.18290,   Acc: 100.000%
+[2023-07-17 17:47:22,574 INFO] In testphase ... 
+[2023-07-17 17:47:22,869 INFO] Test Epoch: 21, micro f1: 0.710, macro f1: 0.483, kappa: 0.227
+[2023-07-17 17:47:22,871 INFO] [[ 17  33   5]
+ [ 27 334  18]
+ [  4  64  19]]
+[2023-07-17 17:47:22,949 INFO] Epoch: 22, Batch_index:0,  Loss: 0.00522,   Acc: 100.000%
+[2023-07-17 17:47:22,972 INFO] Epoch: 22, Batch_index:1,  Loss: 0.00745,   Acc: 100.000%
+[2023-07-17 17:47:23,047 INFO] Epoch: 22, Batch_index:2,  Loss: 0.00420,   Acc: 100.000%
+[2023-07-17 17:47:23,069 INFO] Epoch: 22, Batch_index:3,  Loss: 0.00542,   Acc: 100.000%
+[2023-07-17 17:47:23,147 INFO] Epoch: 22, Batch_index:4,  Loss: 0.00495,   Acc: 100.000%
+[2023-07-17 17:47:23,169 INFO] Epoch: 22, Batch_index:5,  Loss: 0.00410,   Acc: 100.000%
+[2023-07-17 17:47:23,662 INFO] Epoch: 22, Batch_index:6,  Loss: 0.00538,   Acc: 100.000%
+[2023-07-17 17:47:23,682 INFO] Epoch: 22, Batch_index:7,  Loss: 0.00492,   Acc: 100.000%
+[2023-07-17 17:47:23,741 INFO] Epoch: 22, Batch_index:8,  Loss: 0.02146,   Acc: 100.000%
+[2023-07-17 17:47:23,761 INFO] Epoch: 22, Batch_index:9,  Loss: 0.00341,   Acc: 100.000%
+[2023-07-17 17:47:23,835 INFO] Epoch: 22, Batch_index:10,  Loss: 0.01041,   Acc: 100.000%
+[2023-07-17 17:47:23,857 INFO] Epoch: 22, Batch_index:11,  Loss: 0.01113,   Acc: 100.000%
+[2023-07-17 17:47:23,930 INFO] Epoch: 22, Batch_index:12,  Loss: 0.00451,   Acc: 100.000%
+[2023-07-17 17:47:23,952 INFO] Epoch: 22, Batch_index:13,  Loss: 0.00619,   Acc: 100.000%
+[2023-07-17 17:47:23,972 INFO] Epoch: 22, Batch_index:14,  Loss: 0.00298,   Acc: 100.000%
+[2023-07-17 17:47:24,047 INFO] Epoch: 22, Batch_index:15,  Loss: 0.00872,   Acc: 100.000%
+[2023-07-17 17:47:24,068 INFO] Epoch: 22, Batch_index:16,  Loss: 0.01212,   Acc: 100.000%
+[2023-07-17 17:47:24,143 INFO] Epoch: 22, Batch_index:17,  Loss: 0.00324,   Acc: 100.000%
+[2023-07-17 17:47:24,165 INFO] Epoch: 22, Batch_index:18,  Loss: 0.00454,   Acc: 100.000%
+[2023-07-17 17:47:24,234 INFO] Epoch: 22, Batch_index:19,  Loss: 0.00461,   Acc: 100.000%
+[2023-07-17 17:47:24,243 INFO] Epoch: 22, Batch_index:20,  Loss: 0.00414,   Acc: 100.000%
+[2023-07-17 17:47:24,244 INFO] Epoch: 22,   Loss: 0.13908,   Acc: 100.000%
+[2023-07-17 17:47:24,244 INFO] In testphase ... 
+[2023-07-17 17:47:24,534 INFO] Test Epoch: 22, micro f1: 0.699, macro f1: 0.467, kappa: 0.212
+[2023-07-17 17:47:24,535 INFO] [[ 14  33   8]
+ [ 27 329  23]
+ [  4  62  21]]
+[2023-07-17 17:47:24,556 INFO] Epoch: 23, Batch_index:0,  Loss: 0.00241,   Acc: 100.000%
+[2023-07-17 17:47:24,577 INFO] Epoch: 23, Batch_index:1,  Loss: 0.00886,   Acc: 100.000%
+[2023-07-17 17:47:24,646 INFO] Epoch: 23, Batch_index:2,  Loss: 0.00733,   Acc: 100.000%
+[2023-07-17 17:47:24,668 INFO] Epoch: 23, Batch_index:3,  Loss: 0.00319,   Acc: 100.000%
+[2023-07-17 17:47:24,744 INFO] Epoch: 23, Batch_index:4,  Loss: 0.00365,   Acc: 100.000%
+[2023-07-17 17:47:24,765 INFO] Epoch: 23, Batch_index:5,  Loss: 0.00354,   Acc: 100.000%
+[2023-07-17 17:47:24,834 INFO] Epoch: 23, Batch_index:6,  Loss: 0.00518,   Acc: 100.000%
+[2023-07-17 17:47:24,855 INFO] Epoch: 23, Batch_index:7,  Loss: 0.00391,   Acc: 100.000%
+[2023-07-17 17:47:24,927 INFO] Epoch: 23, Batch_index:8,  Loss: 0.00484,   Acc: 100.000%
+[2023-07-17 17:47:24,948 INFO] Epoch: 23, Batch_index:9,  Loss: 0.00268,   Acc: 100.000%
+[2023-07-17 17:47:24,968 INFO] Epoch: 23, Batch_index:10,  Loss: 0.00797,   Acc: 100.000%
+[2023-07-17 17:47:25,147 INFO] Epoch: 23, Batch_index:11,  Loss: 0.00380,   Acc: 100.000%
+[2023-07-17 17:47:25,168 INFO] Epoch: 23, Batch_index:12,  Loss: 0.00486,   Acc: 100.000%
+[2023-07-17 17:47:25,244 INFO] Epoch: 23, Batch_index:13,  Loss: 0.00770,   Acc: 100.000%
+[2023-07-17 17:47:25,266 INFO] Epoch: 23, Batch_index:14,  Loss: 0.00282,   Acc: 100.000%
+[2023-07-17 17:47:25,342 INFO] Epoch: 23, Batch_index:15,  Loss: 0.00464,   Acc: 100.000%
+[2023-07-17 17:47:25,361 INFO] Epoch: 23, Batch_index:16,  Loss: 0.00318,   Acc: 100.000%
+[2023-07-17 17:47:25,431 INFO] Epoch: 23, Batch_index:17,  Loss: 0.00351,   Acc: 100.000%
+[2023-07-17 17:47:25,452 INFO] Epoch: 23, Batch_index:18,  Loss: 0.00254,   Acc: 100.000%
+[2023-07-17 17:47:25,472 INFO] Epoch: 23, Batch_index:19,  Loss: 0.00459,   Acc: 100.000%
+[2023-07-17 17:47:25,536 INFO] Epoch: 23, Batch_index:20,  Loss: 0.00191,   Acc: 100.000%
+[2023-07-17 17:47:25,537 INFO] Epoch: 23,   Loss: 0.09313,   Acc: 100.000%
+[2023-07-17 17:47:25,537 INFO] In testphase ... 
+[2023-07-17 17:47:25,834 INFO] Test Epoch: 23, micro f1: 0.701, macro f1: 0.464, kappa: 0.204
+[2023-07-17 17:47:25,836 INFO] [[ 16  33   6]
+ [ 28 332  19]
+ [  5  65  17]]
+[2023-07-17 17:47:25,857 INFO] Epoch: 24, Batch_index:0,  Loss: 0.00232,   Acc: 100.000%
+[2023-07-17 17:47:25,930 INFO] Epoch: 24, Batch_index:1,  Loss: 0.00405,   Acc: 100.000%
+[2023-07-17 17:47:25,950 INFO] Epoch: 24, Batch_index:2,  Loss: 0.00232,   Acc: 100.000%
+[2023-07-17 17:47:25,970 INFO] Epoch: 24, Batch_index:3,  Loss: 0.00351,   Acc: 100.000%
+[2023-07-17 17:47:26,044 INFO] Epoch: 24, Batch_index:4,  Loss: 0.00276,   Acc: 100.000%
+[2023-07-17 17:47:26,064 INFO] Epoch: 24, Batch_index:5,  Loss: 0.00513,   Acc: 100.000%
+[2023-07-17 17:47:26,137 INFO] Epoch: 24, Batch_index:6,  Loss: 0.00362,   Acc: 100.000%
+[2023-07-17 17:47:26,157 INFO] Epoch: 24, Batch_index:7,  Loss: 0.00284,   Acc: 100.000%
+[2023-07-17 17:47:26,229 INFO] Epoch: 24, Batch_index:8,  Loss: 0.00487,   Acc: 100.000%
+[2023-07-17 17:47:26,250 INFO] Epoch: 24, Batch_index:9,  Loss: 0.01524,   Acc: 100.000%
+[2023-07-17 17:47:26,272 INFO] Epoch: 24, Batch_index:10,  Loss: 0.00354,   Acc: 100.000%
+[2023-07-17 17:47:26,346 INFO] Epoch: 24, Batch_index:11,  Loss: 0.00291,   Acc: 100.000%
+[2023-07-17 17:47:26,368 INFO] Epoch: 24, Batch_index:12,  Loss: 0.00284,   Acc: 100.000%
+[2023-07-17 17:47:26,444 INFO] Epoch: 24, Batch_index:13,  Loss: 0.00442,   Acc: 100.000%
+[2023-07-17 17:47:26,464 INFO] Epoch: 24, Batch_index:14,  Loss: 0.00254,   Acc: 100.000%
+[2023-07-17 17:47:26,537 INFO] Epoch: 24, Batch_index:15,  Loss: 0.00979,   Acc: 100.000%
+[2023-07-17 17:47:26,556 INFO] Epoch: 24, Batch_index:16,  Loss: 0.00364,   Acc: 100.000%
+[2023-07-17 17:47:26,629 INFO] Epoch: 24, Batch_index:17,  Loss: 0.00240,   Acc: 100.000%
+[2023-07-17 17:47:26,651 INFO] Epoch: 24, Batch_index:18,  Loss: 0.00282,   Acc: 100.000%
+[2023-07-17 17:47:26,670 INFO] Epoch: 24, Batch_index:19,  Loss: 0.01128,   Acc: 100.000%
+[2023-07-17 17:47:26,728 INFO] Epoch: 24, Batch_index:20,  Loss: 0.02118,   Acc: 100.000%
+[2023-07-17 17:47:26,728 INFO] Epoch: 24,   Loss: 0.11400,   Acc: 100.000%
+[2023-07-17 17:47:26,728 INFO] In testphase ... 
+[2023-07-17 17:47:26,963 INFO] Test Epoch: 24, micro f1: 0.706, macro f1: 0.495, kappa: 0.238
+[2023-07-17 17:47:26,964 INFO] [[ 17  32   6]
+ [ 25 328  26]
+ [  3  61  23]]
+[2023-07-17 17:47:27,034 INFO] Epoch: 25, Batch_index:0,  Loss: 0.00324,   Acc: 100.000%
+[2023-07-17 17:47:27,054 INFO] Epoch: 25, Batch_index:1,  Loss: 0.00276,   Acc: 100.000%
+[2023-07-17 17:47:27,074 INFO] Epoch: 25, Batch_index:2,  Loss: 0.00421,   Acc: 100.000%
+[2023-07-17 17:47:27,147 INFO] Epoch: 25, Batch_index:3,  Loss: 0.00323,   Acc: 100.000%
+[2023-07-17 17:47:27,167 INFO] Epoch: 25, Batch_index:4,  Loss: 0.00262,   Acc: 100.000%
+[2023-07-17 17:47:27,242 INFO] Epoch: 25, Batch_index:5,  Loss: 0.00528,   Acc: 100.000%
+[2023-07-17 17:47:27,264 INFO] Epoch: 25, Batch_index:6,  Loss: 0.00346,   Acc: 100.000%
+[2023-07-17 17:47:27,338 INFO] Epoch: 25, Batch_index:7,  Loss: 0.00393,   Acc: 100.000%
+[2023-07-17 17:47:27,358 INFO] Epoch: 25, Batch_index:8,  Loss: 0.00778,   Acc: 100.000%
+[2023-07-17 17:47:27,428 INFO] Epoch: 25, Batch_index:9,  Loss: 0.00568,   Acc: 100.000%
+[2023-07-17 17:47:27,448 INFO] Epoch: 25, Batch_index:10,  Loss: 0.00635,   Acc: 100.000%
+[2023-07-17 17:47:27,469 INFO] Epoch: 25, Batch_index:11,  Loss: 0.03922,   Acc: 98.438%
+[2023-07-17 17:47:27,546 INFO] Epoch: 25, Batch_index:12,  Loss: 0.00274,   Acc: 100.000%
+[2023-07-17 17:47:27,566 INFO] Epoch: 25, Batch_index:13,  Loss: 0.00271,   Acc: 100.000%
+[2023-07-17 17:47:27,643 INFO] Epoch: 25, Batch_index:14,  Loss: 0.00337,   Acc: 100.000%
+[2023-07-17 17:47:27,663 INFO] Epoch: 25, Batch_index:15,  Loss: 0.00422,   Acc: 100.000%
+[2023-07-17 17:47:27,738 INFO] Epoch: 25, Batch_index:16,  Loss: 0.00290,   Acc: 100.000%
+[2023-07-17 17:47:27,759 INFO] Epoch: 25, Batch_index:17,  Loss: 0.00403,   Acc: 100.000%
+[2023-07-17 17:47:27,828 INFO] Epoch: 25, Batch_index:18,  Loss: 0.00434,   Acc: 100.000%
+[2023-07-17 17:47:27,848 INFO] Epoch: 25, Batch_index:19,  Loss: 0.00263,   Acc: 100.000%
+[2023-07-17 17:47:27,857 INFO] Epoch: 25, Batch_index:20,  Loss: 0.05604,   Acc: 100.000%
+[2023-07-17 17:47:27,858 INFO] Epoch: 25,   Loss: 0.17076,   Acc: 99.923%
+[2023-07-17 17:47:27,858 INFO] In testphase ... 
+[2023-07-17 17:47:28,148 INFO] Test Epoch: 25, micro f1: 0.704, macro f1: 0.467, kappa: 0.197
+[2023-07-17 17:47:28,149 INFO] [[ 13  37   5]
+ [ 19 334  26]
+ [  2  65  20]]
+[2023-07-17 17:47:28,170 INFO] Epoch: 26, Batch_index:0,  Loss: 0.00423,   Acc: 100.000%
+[2023-07-17 17:47:28,244 INFO] Epoch: 26, Batch_index:1,  Loss: 0.00440,   Acc: 100.000%
+[2023-07-17 17:47:28,265 INFO] Epoch: 26, Batch_index:2,  Loss: 0.07092,   Acc: 98.438%
+[2023-07-17 17:47:28,338 INFO] Epoch: 26, Batch_index:3,  Loss: 0.00398,   Acc: 100.000%
+[2023-07-17 17:47:28,357 INFO] Epoch: 26, Batch_index:4,  Loss: 0.00381,   Acc: 100.000%
+[2023-07-17 17:47:28,430 INFO] Epoch: 26, Batch_index:5,  Loss: 0.00751,   Acc: 100.000%
+[2023-07-17 17:47:28,450 INFO] Epoch: 26, Batch_index:6,  Loss: 0.00334,   Acc: 100.000%
+[2023-07-17 17:47:28,470 INFO] Epoch: 26, Batch_index:7,  Loss: 0.01064,   Acc: 100.000%
+[2023-07-17 17:47:28,546 INFO] Epoch: 26, Batch_index:8,  Loss: 0.00778,   Acc: 100.000%
+[2023-07-17 17:47:28,566 INFO] Epoch: 26, Batch_index:9,  Loss: 0.00610,   Acc: 100.000%
+[2023-07-17 17:47:28,641 INFO] Epoch: 26, Batch_index:10,  Loss: 0.03921,   Acc: 98.438%
+[2023-07-17 17:47:28,661 INFO] Epoch: 26, Batch_index:11,  Loss: 0.01079,   Acc: 100.000%
+[2023-07-17 17:47:28,735 INFO] Epoch: 26, Batch_index:12,  Loss: 0.01322,   Acc: 100.000%
+[2023-07-17 17:47:28,754 INFO] Epoch: 26, Batch_index:13,  Loss: 0.00541,   Acc: 100.000%
+[2023-07-17 17:47:28,774 INFO] Epoch: 26, Batch_index:14,  Loss: 0.00608,   Acc: 100.000%
+[2023-07-17 17:47:28,847 INFO] Epoch: 26, Batch_index:15,  Loss: 0.04806,   Acc: 100.000%
+[2023-07-17 17:47:28,867 INFO] Epoch: 26, Batch_index:16,  Loss: 0.00465,   Acc: 100.000%
+[2023-07-17 17:47:28,942 INFO] Epoch: 26, Batch_index:17,  Loss: 0.00670,   Acc: 100.000%
+[2023-07-17 17:47:28,962 INFO] Epoch: 26, Batch_index:18,  Loss: 0.09511,   Acc: 96.875%
+[2023-07-17 17:47:29,030 INFO] Epoch: 26, Batch_index:19,  Loss: 0.00547,   Acc: 100.000%
+[2023-07-17 17:47:29,039 INFO] Epoch: 26, Batch_index:20,  Loss: 0.01203,   Acc: 100.000%
+[2023-07-17 17:47:29,040 INFO] Epoch: 26,   Loss: 0.36944,   Acc: 99.690%
+[2023-07-17 17:47:29,040 INFO] In testphase ... 
+[2023-07-17 17:47:29,334 INFO] Test Epoch: 26, micro f1: 0.708, macro f1: 0.444, kappa: 0.196
+[2023-07-17 17:47:29,335 INFO] [[ 11  34  10]
+ [ 23 341  15]
+ [  4  66  17]]
+[2023-07-17 17:47:29,356 INFO] Epoch: 27, Batch_index:0,  Loss: 0.01317,   Acc: 100.000%
+[2023-07-17 17:47:29,429 INFO] Epoch: 27, Batch_index:1,  Loss: 0.00678,   Acc: 100.000%
+[2023-07-17 17:47:29,449 INFO] Epoch: 27, Batch_index:2,  Loss: 0.00569,   Acc: 100.000%
+[2023-07-17 17:47:29,470 INFO] Epoch: 27, Batch_index:3,  Loss: 0.00354,   Acc: 100.000%
+[2023-07-17 17:47:29,551 INFO] Epoch: 27, Batch_index:4,  Loss: 0.03052,   Acc: 100.000%
+[2023-07-17 17:47:29,572 INFO] Epoch: 27, Batch_index:5,  Loss: 0.04482,   Acc: 98.438%
+[2023-07-17 17:47:29,646 INFO] Epoch: 27, Batch_index:6,  Loss: 0.01129,   Acc: 100.000%
+[2023-07-17 17:47:29,666 INFO] Epoch: 27, Batch_index:7,  Loss: 0.02120,   Acc: 98.438%
+[2023-07-17 17:47:29,742 INFO] Epoch: 27, Batch_index:8,  Loss: 0.00434,   Acc: 100.000%
+[2023-07-17 17:47:29,761 INFO] Epoch: 27, Batch_index:9,  Loss: 0.00544,   Acc: 100.000%
+[2023-07-17 17:47:29,830 INFO] Epoch: 27, Batch_index:10,  Loss: 0.00711,   Acc: 100.000%
+[2023-07-17 17:47:29,850 INFO] Epoch: 27, Batch_index:11,  Loss: 0.00877,   Acc: 100.000%
+[2023-07-17 17:47:29,870 INFO] Epoch: 27, Batch_index:12,  Loss: 0.01877,   Acc: 100.000%
+[2023-07-17 17:47:29,945 INFO] Epoch: 27, Batch_index:13,  Loss: 0.00533,   Acc: 100.000%
+[2023-07-17 17:47:29,966 INFO] Epoch: 27, Batch_index:14,  Loss: 0.00773,   Acc: 100.000%
+[2023-07-17 17:47:30,045 INFO] Epoch: 27, Batch_index:15,  Loss: 0.01189,   Acc: 100.000%
+[2023-07-17 17:47:30,067 INFO] Epoch: 27, Batch_index:16,  Loss: 0.00852,   Acc: 100.000%
+[2023-07-17 17:47:30,143 INFO] Epoch: 27, Batch_index:17,  Loss: 0.00458,   Acc: 100.000%
+[2023-07-17 17:47:30,164 INFO] Epoch: 27, Batch_index:18,  Loss: 0.13338,   Acc: 95.312%
+[2023-07-17 17:47:30,237 INFO] Epoch: 27, Batch_index:19,  Loss: 0.00790,   Acc: 100.000%
+[2023-07-17 17:47:30,247 INFO] Epoch: 27, Batch_index:20,  Loss: 0.05030,   Acc: 100.000%
+[2023-07-17 17:47:30,247 INFO] Epoch: 27,   Loss: 0.41108,   Acc: 99.613%
+[2023-07-17 17:47:30,247 INFO] In testphase ... 
+[2023-07-17 17:47:30,477 INFO] Test Epoch: 27, micro f1: 0.699, macro f1: 0.448, kappa: 0.192
+[2023-07-17 17:47:30,478 INFO] [[  9  36  10]
+ [ 20 332  27]
+ [  1  63  23]]
+[2023-07-17 17:47:30,549 INFO] Epoch: 28, Batch_index:0,  Loss: 0.01030,   Acc: 100.000%
+[2023-07-17 17:47:30,568 INFO] Epoch: 28, Batch_index:1,  Loss: 0.00881,   Acc: 100.000%
+[2023-07-17 17:47:30,642 INFO] Epoch: 28, Batch_index:2,  Loss: 0.01463,   Acc: 100.000%
+[2023-07-17 17:47:30,662 INFO] Epoch: 28, Batch_index:3,  Loss: 0.01475,   Acc: 100.000%
+[2023-07-17 17:47:30,735 INFO] Epoch: 28, Batch_index:4,  Loss: 0.00615,   Acc: 100.000%
+[2023-07-17 17:47:30,753 INFO] Epoch: 28, Batch_index:5,  Loss: 0.01184,   Acc: 100.000%
+[2023-07-17 17:47:30,774 INFO] Epoch: 28, Batch_index:6,  Loss: 0.01875,   Acc: 100.000%
+[2023-07-17 17:47:30,848 INFO] Epoch: 28, Batch_index:7,  Loss: 0.07338,   Acc: 96.875%
+[2023-07-17 17:47:30,869 INFO] Epoch: 28, Batch_index:8,  Loss: 0.01133,   Acc: 100.000%
+[2023-07-17 17:47:30,944 INFO] Epoch: 28, Batch_index:9,  Loss: 0.05574,   Acc: 98.438%
+[2023-07-17 17:47:30,964 INFO] Epoch: 28, Batch_index:10,  Loss: 0.01352,   Acc: 100.000%
+[2023-07-17 17:47:31,035 INFO] Epoch: 28, Batch_index:11,  Loss: 0.02154,   Acc: 100.000%
+[2023-07-17 17:47:31,055 INFO] Epoch: 28, Batch_index:12,  Loss: 0.02117,   Acc: 100.000%
+[2023-07-17 17:47:31,127 INFO] Epoch: 28, Batch_index:13,  Loss: 0.01030,   Acc: 100.000%
+[2023-07-17 17:47:31,147 INFO] Epoch: 28, Batch_index:14,  Loss: 0.01693,   Acc: 100.000%
+[2023-07-17 17:47:31,167 INFO] Epoch: 28, Batch_index:15,  Loss: 0.00542,   Acc: 100.000%
+[2023-07-17 17:47:31,245 INFO] Epoch: 28, Batch_index:16,  Loss: 0.07430,   Acc: 96.875%
+[2023-07-17 17:47:31,266 INFO] Epoch: 28, Batch_index:17,  Loss: 0.02748,   Acc: 98.438%
+[2023-07-17 17:47:31,338 INFO] Epoch: 28, Batch_index:18,  Loss: 0.01052,   Acc: 100.000%
+[2023-07-17 17:47:31,356 INFO] Epoch: 28, Batch_index:19,  Loss: 0.05434,   Acc: 98.438%
+[2023-07-17 17:47:31,366 INFO] Epoch: 28, Batch_index:20,  Loss: 0.01892,   Acc: 100.000%
+[2023-07-17 17:47:31,366 INFO] Epoch: 28,   Loss: 0.50013,   Acc: 99.458%
+[2023-07-17 17:47:31,366 INFO] In testphase ... 
+[2023-07-17 17:47:31,661 INFO] Test Epoch: 28, micro f1: 0.708, macro f1: 0.481, kappa: 0.208
+[2023-07-17 17:47:31,663 INFO] [[ 17  37   1]
+ [ 25 334  20]
+ [  3  66  18]]
+[2023-07-17 17:47:31,732 INFO] Epoch: 29, Batch_index:0,  Loss: 0.00783,   Acc: 100.000%
+[2023-07-17 17:47:31,751 INFO] Epoch: 29, Batch_index:1,  Loss: 0.02743,   Acc: 100.000%
+[2023-07-17 17:47:31,770 INFO] Epoch: 29, Batch_index:2,  Loss: 0.01077,   Acc: 100.000%
+[2023-07-17 17:47:31,846 INFO] Epoch: 29, Batch_index:3,  Loss: 0.00916,   Acc: 100.000%
+[2023-07-17 17:47:31,868 INFO] Epoch: 29, Batch_index:4,  Loss: 0.03719,   Acc: 98.438%
+[2023-07-17 17:47:31,942 INFO] Epoch: 29, Batch_index:5,  Loss: 0.00576,   Acc: 100.000%
+[2023-07-17 17:47:31,962 INFO] Epoch: 29, Batch_index:6,  Loss: 0.02926,   Acc: 100.000%
+[2023-07-17 17:47:32,030 INFO] Epoch: 29, Batch_index:7,  Loss: 0.01482,   Acc: 100.000%
+[2023-07-17 17:47:32,050 INFO] Epoch: 29, Batch_index:8,  Loss: 0.00650,   Acc: 100.000%
+[2023-07-17 17:47:32,070 INFO] Epoch: 29, Batch_index:9,  Loss: 0.00955,   Acc: 100.000%
+[2023-07-17 17:47:32,146 INFO] Epoch: 29, Batch_index:10,  Loss: 0.01262,   Acc: 100.000%
+[2023-07-17 17:47:32,166 INFO] Epoch: 29, Batch_index:11,  Loss: 0.02865,   Acc: 98.438%
+[2023-07-17 17:47:32,243 INFO] Epoch: 29, Batch_index:12,  Loss: 0.01457,   Acc: 100.000%
+[2023-07-17 17:47:32,266 INFO] Epoch: 29, Batch_index:13,  Loss: 0.01877,   Acc: 100.000%
+[2023-07-17 17:47:32,344 INFO] Epoch: 29, Batch_index:14,  Loss: 0.00982,   Acc: 100.000%
+[2023-07-17 17:47:32,366 INFO] Epoch: 29, Batch_index:15,  Loss: 0.00992,   Acc: 100.000%
+[2023-07-17 17:47:32,444 INFO] Epoch: 29, Batch_index:16,  Loss: 0.01810,   Acc: 100.000%
+[2023-07-17 17:47:32,467 INFO] Epoch: 29, Batch_index:17,  Loss: 0.01214,   Acc: 100.000%
+[2023-07-17 17:47:32,544 INFO] Epoch: 29, Batch_index:18,  Loss: 0.01296,   Acc: 100.000%
+[2023-07-17 17:47:32,567 INFO] Epoch: 29, Batch_index:19,  Loss: 0.06845,   Acc: 98.438%
+[2023-07-17 17:47:32,628 INFO] Epoch: 29, Batch_index:20,  Loss: 0.03312,   Acc: 100.000%
+[2023-07-17 17:47:32,628 INFO] Epoch: 29,   Loss: 0.39739,   Acc: 99.768%
+[2023-07-17 17:47:32,628 INFO] In testphase ... 
+[2023-07-17 17:47:32,867 INFO] Test Epoch: 29, micro f1: 0.689, macro f1: 0.458, kappa: 0.196
+[2023-07-17 17:47:32,868 INFO] [[ 15  32   8]
+ [ 29 325  25]
+ [  5  63  19]]
+[2023-07-17 17:47:32,948 INFO] Epoch: 30, Batch_index:0,  Loss: 0.00734,   Acc: 100.000%
+[2023-07-17 17:47:32,969 INFO] Epoch: 30, Batch_index:1,  Loss: 0.01013,   Acc: 100.000%
+[2023-07-17 17:47:33,050 INFO] Epoch: 30, Batch_index:2,  Loss: 0.01434,   Acc: 100.000%
+[2023-07-17 17:47:33,072 INFO] Epoch: 30, Batch_index:3,  Loss: 0.00840,   Acc: 100.000%
+[2023-07-17 17:47:33,148 INFO] Epoch: 30, Batch_index:4,  Loss: 0.00928,   Acc: 100.000%
+[2023-07-17 17:47:33,171 INFO] Epoch: 30, Batch_index:5,  Loss: 0.00650,   Acc: 100.000%
+[2023-07-17 17:47:33,247 INFO] Epoch: 30, Batch_index:6,  Loss: 0.01243,   Acc: 100.000%
+[2023-07-17 17:47:33,268 INFO] Epoch: 30, Batch_index:7,  Loss: 0.00953,   Acc: 100.000%
+[2023-07-17 17:47:33,347 INFO] Epoch: 30, Batch_index:8,  Loss: 0.01036,   Acc: 100.000%
+[2023-07-17 17:47:33,368 INFO] Epoch: 30, Batch_index:9,  Loss: 0.01581,   Acc: 100.000%
+[2023-07-17 17:47:33,547 INFO] Epoch: 30, Batch_index:10,  Loss: 0.00626,   Acc: 100.000%
+[2023-07-17 17:47:33,568 INFO] Epoch: 30, Batch_index:11,  Loss: 0.00643,   Acc: 100.000%
+[2023-07-17 17:47:33,644 INFO] Epoch: 30, Batch_index:12,  Loss: 0.00583,   Acc: 100.000%
+[2023-07-17 17:47:33,666 INFO] Epoch: 30, Batch_index:13,  Loss: 0.01375,   Acc: 100.000%
+[2023-07-17 17:47:33,743 INFO] Epoch: 30, Batch_index:14,  Loss: 0.01302,   Acc: 100.000%
+[2023-07-17 17:47:33,764 INFO] Epoch: 30, Batch_index:15,  Loss: 0.00471,   Acc: 100.000%
+[2023-07-17 17:47:33,839 INFO] Epoch: 30, Batch_index:16,  Loss: 0.00775,   Acc: 100.000%
+[2023-07-17 17:47:33,860 INFO] Epoch: 30, Batch_index:17,  Loss: 0.00677,   Acc: 100.000%
+[2023-07-17 17:47:33,931 INFO] Epoch: 30, Batch_index:18,  Loss: 0.02069,   Acc: 100.000%
+[2023-07-17 17:47:33,951 INFO] Epoch: 30, Batch_index:19,  Loss: 0.00520,   Acc: 100.000%
+[2023-07-17 17:47:33,960 INFO] Epoch: 30, Batch_index:20,  Loss: 0.01317,   Acc: 100.000%
+[2023-07-17 17:47:33,960 INFO] Epoch: 30,   Loss: 0.20768,   Acc: 100.000%
+[2023-07-17 17:47:33,960 INFO] In testphase ... 
+[2023-07-17 17:47:34,249 INFO] Test Epoch: 30, micro f1: 0.706, macro f1: 0.470, kappa: 0.213
+[2023-07-17 17:47:34,250 INFO] [[ 14  35   6]
+ [ 25 334  20]
+ [  4  63  20]]
+[2023-07-17 17:47:34,273 INFO] Epoch: 31, Batch_index:0,  Loss: 0.01520,   Acc: 98.438%
+[2023-07-17 17:47:34,349 INFO] Epoch: 31, Batch_index:1,  Loss: 0.00385,   Acc: 100.000%
+[2023-07-17 17:47:34,372 INFO] Epoch: 31, Batch_index:2,  Loss: 0.00496,   Acc: 100.000%
+[2023-07-17 17:47:34,449 INFO] Epoch: 31, Batch_index:3,  Loss: 0.00801,   Acc: 100.000%
+[2023-07-17 17:47:34,471 INFO] Epoch: 31, Batch_index:4,  Loss: 0.00963,   Acc: 100.000%
+[2023-07-17 17:47:34,549 INFO] Epoch: 31, Batch_index:5,  Loss: 0.00472,   Acc: 100.000%
+[2023-07-17 17:47:34,571 INFO] Epoch: 31, Batch_index:6,  Loss: 0.00412,   Acc: 100.000%
+[2023-07-17 17:47:34,646 INFO] Epoch: 31, Batch_index:7,  Loss: 0.01426,   Acc: 100.000%
+[2023-07-17 17:47:34,667 INFO] Epoch: 31, Batch_index:8,  Loss: 0.01075,   Acc: 100.000%
+[2023-07-17 17:47:34,744 INFO] Epoch: 31, Batch_index:9,  Loss: 0.00986,   Acc: 100.000%
+[2023-07-17 17:47:34,767 INFO] Epoch: 31, Batch_index:10,  Loss: 0.01298,   Acc: 100.000%
+[2023-07-17 17:47:34,842 INFO] Epoch: 31, Batch_index:11,  Loss: 0.00812,   Acc: 100.000%
+[2023-07-17 17:47:34,863 INFO] Epoch: 31, Batch_index:12,  Loss: 0.00497,   Acc: 100.000%
+[2023-07-17 17:47:34,938 INFO] Epoch: 31, Batch_index:13,  Loss: 0.01866,   Acc: 100.000%
+[2023-07-17 17:47:34,961 INFO] Epoch: 31, Batch_index:14,  Loss: 0.00681,   Acc: 100.000%
+[2023-07-17 17:47:35,030 INFO] Epoch: 31, Batch_index:15,  Loss: 0.00779,   Acc: 100.000%
+[2023-07-17 17:47:35,051 INFO] Epoch: 31, Batch_index:16,  Loss: 0.00589,   Acc: 100.000%
+[2023-07-17 17:47:35,072 INFO] Epoch: 31, Batch_index:17,  Loss: 0.00475,   Acc: 100.000%
+[2023-07-17 17:47:35,155 INFO] Epoch: 31, Batch_index:18,  Loss: 0.02564,   Acc: 100.000%
+[2023-07-17 17:47:35,229 INFO] Epoch: 31, Batch_index:19,  Loss: 0.00785,   Acc: 100.000%
+[2023-07-17 17:47:35,238 INFO] Epoch: 31, Batch_index:20,  Loss: 0.00586,   Acc: 100.000%
+[2023-07-17 17:47:35,238 INFO] Epoch: 31,   Loss: 0.19469,   Acc: 99.923%
+[2023-07-17 17:47:35,238 INFO] In testphase ... 
+[2023-07-17 17:47:35,534 INFO] Test Epoch: 31, micro f1: 0.685, macro f1: 0.446, kappa: 0.174
+[2023-07-17 17:47:35,535 INFO] [[ 14  34   7]
+ [ 26 326  27]
+ [  5  65  17]]
+[2023-07-17 17:47:35,556 INFO] Epoch: 32, Batch_index:0,  Loss: 0.00506,   Acc: 100.000%
+[2023-07-17 17:47:35,630 INFO] Epoch: 32, Batch_index:1,  Loss: 0.00317,   Acc: 100.000%
+[2023-07-17 17:47:35,650 INFO] Epoch: 32, Batch_index:2,  Loss: 0.00416,   Acc: 100.000%
+[2023-07-17 17:47:35,672 INFO] Epoch: 32, Batch_index:3,  Loss: 0.00528,   Acc: 100.000%
+[2023-07-17 17:47:35,749 INFO] Epoch: 32, Batch_index:4,  Loss: 0.00230,   Acc: 100.000%
+[2023-07-17 17:47:35,771 INFO] Epoch: 32, Batch_index:5,  Loss: 0.01178,   Acc: 100.000%
+[2023-07-17 17:47:35,847 INFO] Epoch: 32, Batch_index:6,  Loss: 0.00369,   Acc: 100.000%
+[2023-07-17 17:47:35,867 INFO] Epoch: 32, Batch_index:7,  Loss: 0.00824,   Acc: 100.000%
+[2023-07-17 17:47:35,945 INFO] Epoch: 32, Batch_index:8,  Loss: 0.00526,   Acc: 100.000%
+[2023-07-17 17:47:35,967 INFO] Epoch: 32, Batch_index:9,  Loss: 0.01778,   Acc: 100.000%
+[2023-07-17 17:47:36,043 INFO] Epoch: 32, Batch_index:10,  Loss: 0.00417,   Acc: 100.000%
+[2023-07-17 17:47:36,063 INFO] Epoch: 32, Batch_index:11,  Loss: 0.00365,   Acc: 100.000%
+[2023-07-17 17:47:36,137 INFO] Epoch: 32, Batch_index:12,  Loss: 0.00570,   Acc: 100.000%
+[2023-07-17 17:47:36,157 INFO] Epoch: 32, Batch_index:13,  Loss: 0.00478,   Acc: 100.000%
+[2023-07-17 17:47:36,230 INFO] Epoch: 32, Batch_index:14,  Loss: 0.00351,   Acc: 100.000%
+[2023-07-17 17:47:36,252 INFO] Epoch: 32, Batch_index:15,  Loss: 0.00275,   Acc: 100.000%
+[2023-07-17 17:47:36,274 INFO] Epoch: 32, Batch_index:16,  Loss: 0.00432,   Acc: 100.000%
+[2023-07-17 17:47:36,346 INFO] Epoch: 32, Batch_index:17,  Loss: 0.00278,   Acc: 100.000%
+[2023-07-17 17:47:36,367 INFO] Epoch: 32, Batch_index:18,  Loss: 0.00630,   Acc: 100.000%
+[2023-07-17 17:47:36,445 INFO] Epoch: 32, Batch_index:19,  Loss: 0.00479,   Acc: 100.000%
+[2023-07-17 17:47:36,454 INFO] Epoch: 32, Batch_index:20,  Loss: 0.00625,   Acc: 100.000%
+[2023-07-17 17:47:36,455 INFO] Epoch: 32,   Loss: 0.11572,   Acc: 100.000%
+[2023-07-17 17:47:36,455 INFO] In testphase ... 
+[2023-07-17 17:47:36,751 INFO] Test Epoch: 32, micro f1: 0.695, macro f1: 0.442, kappa: 0.177
+[2023-07-17 17:47:36,753 INFO] [[ 12  35   8]
+ [ 25 333  21]
+ [  4  66  17]]
+[2023-07-17 17:47:36,828 INFO] Epoch: 33, Batch_index:0,  Loss: 0.00300,   Acc: 100.000%
+[2023-07-17 17:47:36,849 INFO] Epoch: 33, Batch_index:1,  Loss: 0.00337,   Acc: 100.000%
+[2023-07-17 17:47:36,871 INFO] Epoch: 33, Batch_index:2,  Loss: 0.00289,   Acc: 100.000%
+[2023-07-17 17:47:36,949 INFO] Epoch: 33, Batch_index:3,  Loss: 0.00251,   Acc: 100.000%
+[2023-07-17 17:47:36,972 INFO] Epoch: 33, Batch_index:4,  Loss: 0.00305,   Acc: 100.000%
+[2023-07-17 17:47:37,046 INFO] Epoch: 33, Batch_index:5,  Loss: 0.00436,   Acc: 100.000%
+[2023-07-17 17:47:37,067 INFO] Epoch: 33, Batch_index:6,  Loss: 0.00390,   Acc: 100.000%
+[2023-07-17 17:47:37,144 INFO] Epoch: 33, Batch_index:7,  Loss: 0.00404,   Acc: 100.000%
+[2023-07-17 17:47:37,167 INFO] Epoch: 33, Batch_index:8,  Loss: 0.01107,   Acc: 100.000%
+[2023-07-17 17:47:37,243 INFO] Epoch: 33, Batch_index:9,  Loss: 0.00506,   Acc: 100.000%
+[2023-07-17 17:47:37,264 INFO] Epoch: 33, Batch_index:10,  Loss: 0.00554,   Acc: 100.000%
+[2023-07-17 17:47:37,338 INFO] Epoch: 33, Batch_index:11,  Loss: 0.00265,   Acc: 100.000%
+[2023-07-17 17:47:37,360 INFO] Epoch: 33, Batch_index:12,  Loss: 0.00383,   Acc: 100.000%
+[2023-07-17 17:47:37,431 INFO] Epoch: 33, Batch_index:13,  Loss: 0.00347,   Acc: 100.000%
+[2023-07-17 17:47:37,452 INFO] Epoch: 33, Batch_index:14,  Loss: 0.00335,   Acc: 100.000%
+[2023-07-17 17:47:37,472 INFO] Epoch: 33, Batch_index:15,  Loss: 0.00304,   Acc: 100.000%
+[2023-07-17 17:47:37,549 INFO] Epoch: 33, Batch_index:16,  Loss: 0.00322,   Acc: 100.000%
+[2023-07-17 17:47:37,571 INFO] Epoch: 33, Batch_index:17,  Loss: 0.00191,   Acc: 100.000%
+[2023-07-17 17:47:37,647 INFO] Epoch: 33, Batch_index:18,  Loss: 0.00855,   Acc: 100.000%
+[2023-07-17 17:47:37,667 INFO] Epoch: 33, Batch_index:19,  Loss: 0.00253,   Acc: 100.000%
+[2023-07-17 17:47:37,728 INFO] Epoch: 33, Batch_index:20,  Loss: 0.08473,   Acc: 100.000%
+[2023-07-17 17:47:37,728 INFO] Epoch: 33,   Loss: 0.16608,   Acc: 100.000%
+[2023-07-17 17:47:37,729 INFO] In testphase ... 
+[2023-07-17 17:47:37,966 INFO] Test Epoch: 33, micro f1: 0.701, macro f1: 0.468, kappa: 0.211
+[2023-07-17 17:47:37,967 INFO] [[ 20  33   2]
+ [ 30 331  18]
+ [  9  64  14]]
+[2023-07-17 17:47:38,045 INFO] Epoch: 34, Batch_index:0,  Loss: 0.00234,   Acc: 100.000%
+[2023-07-17 17:47:38,068 INFO] Epoch: 34, Batch_index:1,  Loss: 0.00383,   Acc: 100.000%
+[2023-07-17 17:47:38,143 INFO] Epoch: 34, Batch_index:2,  Loss: 0.02160,   Acc: 98.438%
+[2023-07-17 17:47:38,163 INFO] Epoch: 34, Batch_index:3,  Loss: 0.00731,   Acc: 100.000%
+[2023-07-17 17:47:38,239 INFO] Epoch: 34, Batch_index:4,  Loss: 0.04184,   Acc: 96.875%
+[2023-07-17 17:47:38,261 INFO] Epoch: 34, Batch_index:5,  Loss: 0.06259,   Acc: 98.438%
+[2023-07-17 17:47:38,330 INFO] Epoch: 34, Batch_index:6,  Loss: 0.00980,   Acc: 100.000%
+[2023-07-17 17:47:38,350 INFO] Epoch: 34, Batch_index:7,  Loss: 0.05093,   Acc: 98.438%
+[2023-07-17 17:47:38,373 INFO] Epoch: 34, Batch_index:8,  Loss: 0.02586,   Acc: 100.000%
+[2023-07-17 17:47:38,447 INFO] Epoch: 34, Batch_index:9,  Loss: 0.03915,   Acc: 98.438%
+[2023-07-17 17:47:38,467 INFO] Epoch: 34, Batch_index:10,  Loss: 0.06230,   Acc: 98.438%
+[2023-07-17 17:47:38,545 INFO] Epoch: 34, Batch_index:11,  Loss: 0.05175,   Acc: 98.438%
+[2023-07-17 17:47:38,568 INFO] Epoch: 34, Batch_index:12,  Loss: 0.08588,   Acc: 98.438%
+[2023-07-17 17:47:38,644 INFO] Epoch: 34, Batch_index:13,  Loss: 0.01913,   Acc: 100.000%
+[2023-07-17 17:47:38,664 INFO] Epoch: 34, Batch_index:14,  Loss: 0.01553,   Acc: 100.000%
+[2023-07-17 17:47:38,739 INFO] Epoch: 34, Batch_index:15,  Loss: 0.09577,   Acc: 98.438%
+[2023-07-17 17:47:38,762 INFO] Epoch: 34, Batch_index:16,  Loss: 0.00892,   Acc: 100.000%
+[2023-07-17 17:47:38,838 INFO] Epoch: 34, Batch_index:17,  Loss: 0.00969,   Acc: 100.000%
+[2023-07-17 17:47:38,859 INFO] Epoch: 34, Batch_index:18,  Loss: 0.01867,   Acc: 100.000%
+[2023-07-17 17:47:38,879 INFO] Epoch: 34, Batch_index:19,  Loss: 0.02007,   Acc: 100.000%
+[2023-07-17 17:47:38,938 INFO] Epoch: 34, Batch_index:20,  Loss: 0.02275,   Acc: 100.000%
+[2023-07-17 17:47:38,938 INFO] Epoch: 34,   Loss: 0.67570,   Acc: 99.225%
+[2023-07-17 17:47:38,938 INFO] In testphase ... 
+[2023-07-17 17:47:39,234 INFO] Test Epoch: 34, micro f1: 0.666, macro f1: 0.425, kappa: 0.178
+[2023-07-17 17:47:39,235 INFO] [[ 11  28  16]
+ [ 30 316  33]
+ [  9  58  20]]
+[2023-07-17 17:47:39,257 INFO] Epoch: 35, Batch_index:0,  Loss: 0.01435,   Acc: 100.000%
+[2023-07-17 17:47:39,330 INFO] Epoch: 35, Batch_index:1,  Loss: 0.03376,   Acc: 98.438%
+[2023-07-17 17:47:39,350 INFO] Epoch: 35, Batch_index:2,  Loss: 0.03138,   Acc: 100.000%
+[2023-07-17 17:47:39,370 INFO] Epoch: 35, Batch_index:3,  Loss: 0.01476,   Acc: 100.000%
+[2023-07-17 17:47:39,448 INFO] Epoch: 35, Batch_index:4,  Loss: 0.02531,   Acc: 100.000%
+[2023-07-17 17:47:39,470 INFO] Epoch: 35, Batch_index:5,  Loss: 0.01643,   Acc: 100.000%
+[2023-07-17 17:47:39,546 INFO] Epoch: 35, Batch_index:6,  Loss: 0.00925,   Acc: 100.000%
+[2023-07-17 17:47:39,567 INFO] Epoch: 35, Batch_index:7,  Loss: 0.02641,   Acc: 100.000%
+[2023-07-17 17:47:39,645 INFO] Epoch: 35, Batch_index:8,  Loss: 0.05781,   Acc: 98.438%
+[2023-07-17 17:47:39,667 INFO] Epoch: 35, Batch_index:9,  Loss: 0.01266,   Acc: 100.000%
+[2023-07-17 17:47:39,744 INFO] Epoch: 35, Batch_index:10,  Loss: 0.07673,   Acc: 98.438%
+[2023-07-17 17:47:39,765 INFO] Epoch: 35, Batch_index:11,  Loss: 0.00768,   Acc: 100.000%
+[2023-07-17 17:47:39,839 INFO] Epoch: 35, Batch_index:12,  Loss: 0.12914,   Acc: 96.875%
+[2023-07-17 17:47:39,862 INFO] Epoch: 35, Batch_index:13,  Loss: 0.03279,   Acc: 100.000%
+[2023-07-17 17:47:39,934 INFO] Epoch: 35, Batch_index:14,  Loss: 0.00815,   Acc: 100.000%
+[2023-07-17 17:47:39,954 INFO] Epoch: 35, Batch_index:15,  Loss: 0.02240,   Acc: 100.000%
+[2023-07-17 17:47:40,028 INFO] Epoch: 35, Batch_index:16,  Loss: 0.01052,   Acc: 100.000%
+[2023-07-17 17:47:40,049 INFO] Epoch: 35, Batch_index:17,  Loss: 0.02203,   Acc: 100.000%
+[2023-07-17 17:47:40,069 INFO] Epoch: 35, Batch_index:18,  Loss: 0.01725,   Acc: 100.000%
+[2023-07-17 17:47:40,146 INFO] Epoch: 35, Batch_index:19,  Loss: 0.01980,   Acc: 100.000%
+[2023-07-17 17:47:40,156 INFO] Epoch: 35, Batch_index:20,  Loss: 0.03602,   Acc: 100.000%
+[2023-07-17 17:47:40,156 INFO] Epoch: 35,   Loss: 0.62463,   Acc: 99.613%
+[2023-07-17 17:47:40,156 INFO] In testphase ... 
+[2023-07-17 17:47:40,450 INFO] Test Epoch: 35, micro f1: 0.676, macro f1: 0.470, kappa: 0.214
+[2023-07-17 17:47:40,451 INFO] [[ 23  27   5]
+ [ 42 312  25]
+ [ 10  60  17]]
+[2023-07-17 17:47:40,473 INFO] Epoch: 36, Batch_index:0,  Loss: 0.01051,   Acc: 100.000%
+[2023-07-17 17:47:40,549 INFO] Epoch: 36, Batch_index:1,  Loss: 0.02768,   Acc: 100.000%
+[2023-07-17 17:47:40,571 INFO] Epoch: 36, Batch_index:2,  Loss: 0.01858,   Acc: 100.000%
+[2023-07-17 17:47:40,646 INFO] Epoch: 36, Batch_index:3,  Loss: 0.00837,   Acc: 100.000%
+[2023-07-17 17:47:40,667 INFO] Epoch: 36, Batch_index:4,  Loss: 0.00852,   Acc: 100.000%
+[2023-07-17 17:47:40,744 INFO] Epoch: 36, Batch_index:5,  Loss: 0.01347,   Acc: 100.000%
+[2023-07-17 17:47:40,766 INFO] Epoch: 36, Batch_index:6,  Loss: 0.00943,   Acc: 100.000%
+[2023-07-17 17:47:40,838 INFO] Epoch: 36, Batch_index:7,  Loss: 0.00957,   Acc: 100.000%
+[2023-07-17 17:47:40,858 INFO] Epoch: 36, Batch_index:8,  Loss: 0.01059,   Acc: 100.000%
+[2023-07-17 17:47:40,929 INFO] Epoch: 36, Batch_index:9,  Loss: 0.04888,   Acc: 98.438%
+[2023-07-17 17:47:40,949 INFO] Epoch: 36, Batch_index:10,  Loss: 0.03717,   Acc: 98.438%
+[2023-07-17 17:47:40,970 INFO] Epoch: 36, Batch_index:11,  Loss: 0.00633,   Acc: 100.000%
+[2023-07-17 17:47:41,049 INFO] Epoch: 36, Batch_index:12,  Loss: 0.00390,   Acc: 100.000%
+[2023-07-17 17:47:41,071 INFO] Epoch: 36, Batch_index:13,  Loss: 0.00829,   Acc: 100.000%
+[2023-07-17 17:47:41,147 INFO] Epoch: 36, Batch_index:14,  Loss: 0.01341,   Acc: 100.000%
+[2023-07-17 17:47:41,168 INFO] Epoch: 36, Batch_index:15,  Loss: 0.00782,   Acc: 100.000%
+[2023-07-17 17:47:41,247 INFO] Epoch: 36, Batch_index:16,  Loss: 0.00710,   Acc: 100.000%
+[2023-07-17 17:47:41,269 INFO] Epoch: 36, Batch_index:17,  Loss: 0.00708,   Acc: 100.000%
+[2023-07-17 17:47:41,345 INFO] Epoch: 36, Batch_index:18,  Loss: 0.00838,   Acc: 100.000%
+[2023-07-17 17:47:41,367 INFO] Epoch: 36, Batch_index:19,  Loss: 0.01400,   Acc: 100.000%
+[2023-07-17 17:47:41,429 INFO] Epoch: 36, Batch_index:20,  Loss: 0.00552,   Acc: 100.000%
+[2023-07-17 17:47:41,429 INFO] Epoch: 36,   Loss: 0.28461,   Acc: 99.845%
+[2023-07-17 17:47:41,429 INFO] In testphase ... 
+[2023-07-17 17:47:41,672 INFO] Test Epoch: 36, micro f1: 0.689, macro f1: 0.450, kappa: 0.195
+[2023-07-17 17:47:41,673 INFO] [[ 12  32  11]
+ [ 27 326  26]
+ [  4  62  21]]
+[2023-07-17 17:47:41,748 INFO] Epoch: 37, Batch_index:0,  Loss: 0.00635,   Acc: 100.000%
+[2023-07-17 17:47:41,770 INFO] Epoch: 37, Batch_index:1,  Loss: 0.00390,   Acc: 100.000%
+[2023-07-17 17:47:41,849 INFO] Epoch: 37, Batch_index:2,  Loss: 0.01112,   Acc: 100.000%
+[2023-07-17 17:47:41,871 INFO] Epoch: 37, Batch_index:3,  Loss: 0.00583,   Acc: 100.000%
+[2023-07-17 17:47:41,947 INFO] Epoch: 37, Batch_index:4,  Loss: 0.02219,   Acc: 100.000%
+[2023-07-17 17:47:41,969 INFO] Epoch: 37, Batch_index:5,  Loss: 0.00437,   Acc: 100.000%
+[2023-07-17 17:47:42,048 INFO] Epoch: 37, Batch_index:6,  Loss: 0.00526,   Acc: 100.000%
+[2023-07-17 17:47:42,070 INFO] Epoch: 37, Batch_index:7,  Loss: 0.01605,   Acc: 100.000%
+[2023-07-17 17:47:42,148 INFO] Epoch: 37, Batch_index:8,  Loss: 0.00468,   Acc: 100.000%
+[2023-07-17 17:47:42,169 INFO] Epoch: 37, Batch_index:9,  Loss: 0.00653,   Acc: 100.000%
+[2023-07-17 17:47:42,247 INFO] Epoch: 37, Batch_index:10,  Loss: 0.00554,   Acc: 100.000%
+[2023-07-17 17:47:42,270 INFO] Epoch: 37, Batch_index:11,  Loss: 0.00659,   Acc: 100.000%
+[2023-07-17 17:47:42,346 INFO] Epoch: 37, Batch_index:12,  Loss: 0.00287,   Acc: 100.000%
+[2023-07-17 17:47:42,366 INFO] Epoch: 37, Batch_index:13,  Loss: 0.00555,   Acc: 100.000%
+[2023-07-17 17:47:42,445 INFO] Epoch: 37, Batch_index:14,  Loss: 0.01433,   Acc: 100.000%
+[2023-07-17 17:47:42,467 INFO] Epoch: 37, Batch_index:15,  Loss: 0.00573,   Acc: 100.000%
+[2023-07-17 17:47:42,542 INFO] Epoch: 37, Batch_index:16,  Loss: 0.00798,   Acc: 100.000%
+[2023-07-17 17:47:42,562 INFO] Epoch: 37, Batch_index:17,  Loss: 0.00397,   Acc: 100.000%
+[2023-07-17 17:47:42,638 INFO] Epoch: 37, Batch_index:18,  Loss: 0.00413,   Acc: 100.000%
+[2023-07-17 17:47:42,660 INFO] Epoch: 37, Batch_index:19,  Loss: 0.00218,   Acc: 100.000%
+[2023-07-17 17:47:42,669 INFO] Epoch: 37, Batch_index:20,  Loss: 0.04538,   Acc: 100.000%
+[2023-07-17 17:47:42,669 INFO] Epoch: 37,   Loss: 0.19052,   Acc: 100.000%
+[2023-07-17 17:47:42,670 INFO] In testphase ... 
+[2023-07-17 17:47:42,966 INFO] Test Epoch: 37, micro f1: 0.699, macro f1: 0.470, kappa: 0.210
+[2023-07-17 17:47:42,967 INFO] [[ 16  33   6]
+ [ 27 329  23]
+ [  5  63  19]]
+[2023-07-17 17:47:43,043 INFO] Epoch: 38, Batch_index:0,  Loss: 0.00388,   Acc: 100.000%
+[2023-07-17 17:47:43,065 INFO] Epoch: 38, Batch_index:1,  Loss: 0.00497,   Acc: 100.000%
+[2023-07-17 17:47:43,141 INFO] Epoch: 38, Batch_index:2,  Loss: 0.00445,   Acc: 100.000%
+[2023-07-17 17:47:43,161 INFO] Epoch: 38, Batch_index:3,  Loss: 0.00653,   Acc: 100.000%
+[2023-07-17 17:47:43,235 INFO] Epoch: 38, Batch_index:4,  Loss: 0.00617,   Acc: 100.000%
+[2023-07-17 17:47:43,257 INFO] Epoch: 38, Batch_index:5,  Loss: 0.00234,   Acc: 100.000%
+[2023-07-17 17:47:43,331 INFO] Epoch: 38, Batch_index:6,  Loss: 0.00354,   Acc: 100.000%
+[2023-07-17 17:47:43,351 INFO] Epoch: 38, Batch_index:7,  Loss: 0.00305,   Acc: 100.000%
+[2023-07-17 17:47:43,372 INFO] Epoch: 38, Batch_index:8,  Loss: 0.00304,   Acc: 100.000%
+[2023-07-17 17:47:43,448 INFO] Epoch: 38, Batch_index:9,  Loss: 0.00414,   Acc: 100.000%
+[2023-07-17 17:47:43,471 INFO] Epoch: 38, Batch_index:10,  Loss: 0.00589,   Acc: 100.000%
+[2023-07-17 17:47:43,546 INFO] Epoch: 38, Batch_index:11,  Loss: 0.00186,   Acc: 100.000%
+[2023-07-17 17:47:43,567 INFO] Epoch: 38, Batch_index:12,  Loss: 0.00918,   Acc: 100.000%
+[2023-07-17 17:47:43,645 INFO] Epoch: 38, Batch_index:13,  Loss: 0.00337,   Acc: 100.000%
+[2023-07-17 17:47:43,668 INFO] Epoch: 38, Batch_index:14,  Loss: 0.00581,   Acc: 100.000%
+[2023-07-17 17:47:43,743 INFO] Epoch: 38, Batch_index:15,  Loss: 0.00641,   Acc: 100.000%
+[2023-07-17 17:47:43,764 INFO] Epoch: 38, Batch_index:16,  Loss: 0.00384,   Acc: 100.000%
+[2023-07-17 17:47:43,839 INFO] Epoch: 38, Batch_index:17,  Loss: 0.00536,   Acc: 100.000%
+[2023-07-17 17:47:43,861 INFO] Epoch: 38, Batch_index:18,  Loss: 0.00454,   Acc: 100.000%
+[2023-07-17 17:47:43,936 INFO] Epoch: 38, Batch_index:19,  Loss: 0.00578,   Acc: 100.000%
+[2023-07-17 17:47:43,946 INFO] Epoch: 38, Batch_index:20,  Loss: 0.05493,   Acc: 100.000%
+[2023-07-17 17:47:43,946 INFO] Epoch: 38,   Loss: 0.14908,   Acc: 100.000%
+[2023-07-17 17:47:43,946 INFO] In testphase ... 
+[2023-07-17 17:47:44,234 INFO] Test Epoch: 38, micro f1: 0.695, macro f1: 0.458, kappa: 0.195
+[2023-07-17 17:47:44,235 INFO] [[ 13  33   9]
+ [ 22 329  28]
+ [  3  64  20]]
+[2023-07-17 17:47:44,256 INFO] Epoch: 39, Batch_index:0,  Loss: 0.00465,   Acc: 100.000%
+[2023-07-17 17:47:44,329 INFO] Epoch: 39, Batch_index:1,  Loss: 0.00347,   Acc: 100.000%
+[2023-07-17 17:47:44,350 INFO] Epoch: 39, Batch_index:2,  Loss: 0.00726,   Acc: 100.000%
+[2023-07-17 17:47:44,371 INFO] Epoch: 39, Batch_index:3,  Loss: 0.00242,   Acc: 100.000%
+[2023-07-17 17:47:44,447 INFO] Epoch: 39, Batch_index:4,  Loss: 0.00235,   Acc: 100.000%
+[2023-07-17 17:47:44,468 INFO] Epoch: 39, Batch_index:5,  Loss: 0.00483,   Acc: 100.000%
+[2023-07-17 17:47:44,546 INFO] Epoch: 39, Batch_index:6,  Loss: 0.00914,   Acc: 100.000%
+[2023-07-17 17:47:44,568 INFO] Epoch: 39, Batch_index:7,  Loss: 0.00852,   Acc: 100.000%
+[2023-07-17 17:47:44,645 INFO] Epoch: 39, Batch_index:8,  Loss: 0.00317,   Acc: 100.000%
+[2023-07-17 17:47:44,667 INFO] Epoch: 39, Batch_index:9,  Loss: 0.00503,   Acc: 100.000%
+[2023-07-17 17:47:44,743 INFO] Epoch: 39, Batch_index:10,  Loss: 0.00923,   Acc: 100.000%
+[2023-07-17 17:47:44,763 INFO] Epoch: 39, Batch_index:11,  Loss: 0.01160,   Acc: 100.000%
+[2023-07-17 17:47:44,838 INFO] Epoch: 39, Batch_index:12,  Loss: 0.00439,   Acc: 100.000%
+[2023-07-17 17:47:44,861 INFO] Epoch: 39, Batch_index:13,  Loss: 0.01166,   Acc: 100.000%
+[2023-07-17 17:47:44,930 INFO] Epoch: 39, Batch_index:14,  Loss: 0.00259,   Acc: 100.000%
+[2023-07-17 17:47:44,950 INFO] Epoch: 39, Batch_index:15,  Loss: 0.00337,   Acc: 100.000%
+[2023-07-17 17:47:44,971 INFO] Epoch: 39, Batch_index:16,  Loss: 0.00323,   Acc: 100.000%
+[2023-07-17 17:47:45,049 INFO] Epoch: 39, Batch_index:17,  Loss: 0.02280,   Acc: 98.438%
+[2023-07-17 17:47:45,070 INFO] Epoch: 39, Batch_index:18,  Loss: 0.00284,   Acc: 100.000%
+[2023-07-17 17:47:45,145 INFO] Epoch: 39, Batch_index:19,  Loss: 0.00463,   Acc: 100.000%
+[2023-07-17 17:47:45,155 INFO] Epoch: 39, Batch_index:20,  Loss: 0.00316,   Acc: 100.000%
+[2023-07-17 17:47:45,155 INFO] Epoch: 39,   Loss: 0.13033,   Acc: 99.923%
+[2023-07-17 17:47:45,155 INFO] In testphase ... 
+[2023-07-17 17:47:45,449 INFO] Test Epoch: 39, micro f1: 0.691, macro f1: 0.443, kappa: 0.176
+[2023-07-17 17:47:45,450 INFO] [[ 13  35   7]
+ [ 32 330  17]
+ [  4  66  17]]
+[2023-07-17 17:47:45,471 INFO] Epoch: 40, Batch_index:0,  Loss: 0.00429,   Acc: 100.000%
+[2023-07-17 17:47:45,549 INFO] Epoch: 40, Batch_index:1,  Loss: 0.02871,   Acc: 100.000%
+[2023-07-17 17:47:45,570 INFO] Epoch: 40, Batch_index:2,  Loss: 0.00530,   Acc: 100.000%
+[2023-07-17 17:47:45,645 INFO] Epoch: 40, Batch_index:3,  Loss: 0.00408,   Acc: 100.000%
+[2023-07-17 17:47:45,668 INFO] Epoch: 40, Batch_index:4,  Loss: 0.00723,   Acc: 100.000%
+[2023-07-17 17:47:45,746 INFO] Epoch: 40, Batch_index:5,  Loss: 0.00778,   Acc: 100.000%
+[2023-07-17 17:47:45,767 INFO] Epoch: 40, Batch_index:6,  Loss: 0.01242,   Acc: 100.000%
+[2023-07-17 17:47:45,843 INFO] Epoch: 40, Batch_index:7,  Loss: 0.00528,   Acc: 100.000%
+[2023-07-17 17:47:45,863 INFO] Epoch: 40, Batch_index:8,  Loss: 0.00910,   Acc: 100.000%
+[2023-07-17 17:47:45,937 INFO] Epoch: 40, Batch_index:9,  Loss: 0.00356,   Acc: 100.000%
+[2023-07-17 17:47:45,957 INFO] Epoch: 40, Batch_index:10,  Loss: 0.00679,   Acc: 100.000%
+[2023-07-17 17:47:45,977 INFO] Epoch: 40, Batch_index:11,  Loss: 0.00685,   Acc: 100.000%
+[2023-07-17 17:47:46,048 INFO] Epoch: 40, Batch_index:12,  Loss: 0.00360,   Acc: 100.000%
+[2023-07-17 17:47:46,069 INFO] Epoch: 40, Batch_index:13,  Loss: 0.00815,   Acc: 100.000%
+[2023-07-17 17:47:46,146 INFO] Epoch: 40, Batch_index:14,  Loss: 0.00466,   Acc: 100.000%
+[2023-07-17 17:47:46,168 INFO] Epoch: 40, Batch_index:15,  Loss: 0.00342,   Acc: 100.000%
+[2023-07-17 17:47:46,245 INFO] Epoch: 40, Batch_index:16,  Loss: 0.00255,   Acc: 100.000%
+[2023-07-17 17:47:46,266 INFO] Epoch: 40, Batch_index:17,  Loss: 0.00393,   Acc: 100.000%
+[2023-07-17 17:47:46,343 INFO] Epoch: 40, Batch_index:18,  Loss: 0.08686,   Acc: 98.438%
+[2023-07-17 17:47:46,366 INFO] Epoch: 40, Batch_index:19,  Loss: 0.00315,   Acc: 100.000%
+[2023-07-17 17:47:46,375 INFO] Epoch: 40, Batch_index:20,  Loss: 0.00334,   Acc: 100.000%
+[2023-07-17 17:47:46,427 INFO] Epoch: 40,   Loss: 0.22105,   Acc: 99.923%
+[2023-07-17 17:47:46,427 INFO] In testphase ... 
+[2023-07-17 17:47:46,665 INFO] Test Epoch: 40, micro f1: 0.678, macro f1: 0.429, kappa: 0.160
+[2023-07-17 17:47:46,666 INFO] [[ 11  34  10]
+ [ 25 324  30]
+ [  5  64  18]]
+[2023-07-17 17:47:46,742 INFO] Epoch: 41, Batch_index:0,  Loss: 0.00462,   Acc: 100.000%
+[2023-07-17 17:47:46,764 INFO] Epoch: 41, Batch_index:1,  Loss: 0.00338,   Acc: 100.000%
+[2023-07-17 17:47:46,838 INFO] Epoch: 41, Batch_index:2,  Loss: 0.00428,   Acc: 100.000%
+[2023-07-17 17:47:46,859 INFO] Epoch: 41, Batch_index:3,  Loss: 0.00486,   Acc: 100.000%
+[2023-07-17 17:47:46,928 INFO] Epoch: 41, Batch_index:4,  Loss: 0.00349,   Acc: 100.000%
+[2023-07-17 17:47:46,951 INFO] Epoch: 41, Batch_index:5,  Loss: 0.00176,   Acc: 100.000%
+[2023-07-17 17:47:46,971 INFO] Epoch: 41, Batch_index:6,  Loss: 0.00197,   Acc: 100.000%
+[2023-07-17 17:47:47,048 INFO] Epoch: 41, Batch_index:7,  Loss: 0.00497,   Acc: 100.000%
+[2023-07-17 17:47:47,070 INFO] Epoch: 41, Batch_index:8,  Loss: 0.00324,   Acc: 100.000%
+[2023-07-17 17:47:47,146 INFO] Epoch: 41, Batch_index:9,  Loss: 0.00343,   Acc: 100.000%
+[2023-07-17 17:47:47,168 INFO] Epoch: 41, Batch_index:10,  Loss: 0.00350,   Acc: 100.000%
+[2023-07-17 17:47:47,246 INFO] Epoch: 41, Batch_index:11,  Loss: 0.00806,   Acc: 100.000%
+[2023-07-17 17:47:47,268 INFO] Epoch: 41, Batch_index:12,  Loss: 0.00278,   Acc: 100.000%
+[2023-07-17 17:47:47,345 INFO] Epoch: 41, Batch_index:13,  Loss: 0.00468,   Acc: 100.000%
+[2023-07-17 17:47:47,368 INFO] Epoch: 41, Batch_index:14,  Loss: 0.00265,   Acc: 100.000%
+[2023-07-17 17:47:47,446 INFO] Epoch: 41, Batch_index:15,  Loss: 0.00251,   Acc: 100.000%
+[2023-07-17 17:47:47,468 INFO] Epoch: 41, Batch_index:16,  Loss: 0.00274,   Acc: 100.000%
+[2023-07-17 17:47:47,546 INFO] Epoch: 41, Batch_index:17,  Loss: 0.00246,   Acc: 100.000%
+[2023-07-17 17:47:47,570 INFO] Epoch: 41, Batch_index:18,  Loss: 0.00357,   Acc: 100.000%
+[2023-07-17 17:47:47,646 INFO] Epoch: 41, Batch_index:19,  Loss: 0.00379,   Acc: 100.000%
+[2023-07-17 17:47:47,656 INFO] Epoch: 41, Batch_index:20,  Loss: 0.02217,   Acc: 100.000%
+[2023-07-17 17:47:47,656 INFO] Epoch: 41,   Loss: 0.09489,   Acc: 100.000%
+[2023-07-17 17:47:47,656 INFO] In testphase ... 
+[2023-07-17 17:47:47,949 INFO] Test Epoch: 41, micro f1: 0.685, macro f1: 0.432, kappa: 0.174
+[2023-07-17 17:47:47,950 INFO] [[  9  34  12]
+ [ 22 327  30]
+ [  3  63  21]]
+[2023-07-17 17:47:47,973 INFO] Epoch: 42, Batch_index:0,  Loss: 0.00143,   Acc: 100.000%
+[2023-07-17 17:47:48,050 INFO] Epoch: 42, Batch_index:1,  Loss: 0.00255,   Acc: 100.000%
+[2023-07-17 17:47:48,071 INFO] Epoch: 42, Batch_index:2,  Loss: 0.00195,   Acc: 100.000%
+[2023-07-17 17:47:48,152 INFO] Epoch: 42, Batch_index:3,  Loss: 0.00336,   Acc: 100.000%
+[2023-07-17 17:47:48,174 INFO] Epoch: 42, Batch_index:4,  Loss: 0.00255,   Acc: 100.000%
+[2023-07-17 17:47:48,248 INFO] Epoch: 42, Batch_index:5,  Loss: 0.00333,   Acc: 100.000%
+[2023-07-17 17:47:48,270 INFO] Epoch: 42, Batch_index:6,  Loss: 0.00227,   Acc: 100.000%
+[2023-07-17 17:47:48,349 INFO] Epoch: 42, Batch_index:7,  Loss: 0.00240,   Acc: 100.000%
+[2023-07-17 17:47:48,370 INFO] Epoch: 42, Batch_index:8,  Loss: 0.00340,   Acc: 100.000%
+[2023-07-17 17:47:48,449 INFO] Epoch: 42, Batch_index:9,  Loss: 0.00254,   Acc: 100.000%
+[2023-07-17 17:47:48,471 INFO] Epoch: 42, Batch_index:10,  Loss: 0.00191,   Acc: 100.000%
+[2023-07-17 17:47:48,547 INFO] Epoch: 42, Batch_index:11,  Loss: 0.00617,   Acc: 100.000%
+[2023-07-17 17:47:48,569 INFO] Epoch: 42, Batch_index:12,  Loss: 0.00166,   Acc: 100.000%
+[2023-07-17 17:47:48,747 INFO] Epoch: 42, Batch_index:13,  Loss: 0.00543,   Acc: 100.000%
+[2023-07-17 17:47:48,771 INFO] Epoch: 42, Batch_index:14,  Loss: 0.00246,   Acc: 100.000%
+[2023-07-17 17:47:48,846 INFO] Epoch: 42, Batch_index:15,  Loss: 0.00195,   Acc: 100.000%
+[2023-07-17 17:47:48,869 INFO] Epoch: 42, Batch_index:16,  Loss: 0.00194,   Acc: 100.000%
+[2023-07-17 17:47:48,946 INFO] Epoch: 42, Batch_index:17,  Loss: 0.00216,   Acc: 100.000%
+[2023-07-17 17:47:48,971 INFO] Epoch: 42, Batch_index:18,  Loss: 0.00467,   Acc: 100.000%
+[2023-07-17 17:47:49,047 INFO] Epoch: 42, Batch_index:19,  Loss: 0.00359,   Acc: 100.000%
+[2023-07-17 17:47:49,057 INFO] Epoch: 42, Batch_index:20,  Loss: 0.12580,   Acc: 100.000%
+[2023-07-17 17:47:49,058 INFO] Epoch: 42,   Loss: 0.18353,   Acc: 100.000%
+[2023-07-17 17:47:49,058 INFO] In testphase ... 
+[2023-07-17 17:47:49,452 INFO] Test Epoch: 42, micro f1: 0.679, macro f1: 0.455, kappa: 0.193
+[2023-07-17 17:47:49,453 INFO] [[ 17  30   8]
+ [ 38 319  22]
+ [  6  63  18]]
+[2023-07-17 17:47:49,474 INFO] Epoch: 43, Batch_index:0,  Loss: 0.00323,   Acc: 100.000%
+[2023-07-17 17:47:49,554 INFO] Epoch: 43, Batch_index:1,  Loss: 0.00514,   Acc: 100.000%
+[2023-07-17 17:47:49,576 INFO] Epoch: 43, Batch_index:2,  Loss: 0.00946,   Acc: 100.000%
+[2023-07-17 17:47:49,647 INFO] Epoch: 43, Batch_index:3,  Loss: 0.01093,   Acc: 100.000%
+[2023-07-17 17:47:49,667 INFO] Epoch: 43, Batch_index:4,  Loss: 0.00460,   Acc: 100.000%
+[2023-07-17 17:47:49,746 INFO] Epoch: 43, Batch_index:5,  Loss: 0.00780,   Acc: 100.000%
+[2023-07-17 17:47:49,768 INFO] Epoch: 43, Batch_index:6,  Loss: 0.00701,   Acc: 100.000%
+[2023-07-17 17:47:49,845 INFO] Epoch: 43, Batch_index:7,  Loss: 0.01104,   Acc: 100.000%
+[2023-07-17 17:47:49,867 INFO] Epoch: 43, Batch_index:8,  Loss: 0.05709,   Acc: 96.875%
+[2023-07-17 17:47:49,944 INFO] Epoch: 43, Batch_index:9,  Loss: 0.00778,   Acc: 100.000%
+[2023-07-17 17:47:49,965 INFO] Epoch: 43, Batch_index:10,  Loss: 0.00615,   Acc: 100.000%
+[2023-07-17 17:47:50,035 INFO] Epoch: 43, Batch_index:11,  Loss: 0.00718,   Acc: 100.000%
+[2023-07-17 17:47:50,056 INFO] Epoch: 43, Batch_index:12,  Loss: 0.00956,   Acc: 100.000%
+[2023-07-17 17:47:50,128 INFO] Epoch: 43, Batch_index:13,  Loss: 0.00453,   Acc: 100.000%
+[2023-07-17 17:47:50,150 INFO] Epoch: 43, Batch_index:14,  Loss: 0.00519,   Acc: 100.000%
+[2023-07-17 17:47:50,170 INFO] Epoch: 43, Batch_index:15,  Loss: 0.00452,   Acc: 100.000%
+[2023-07-17 17:47:50,247 INFO] Epoch: 43, Batch_index:16,  Loss: 0.01261,   Acc: 100.000%
+[2023-07-17 17:47:50,269 INFO] Epoch: 43, Batch_index:17,  Loss: 0.00782,   Acc: 100.000%
+[2023-07-17 17:47:50,345 INFO] Epoch: 43, Batch_index:18,  Loss: 0.00932,   Acc: 100.000%
+[2023-07-17 17:47:50,367 INFO] Epoch: 43, Batch_index:19,  Loss: 0.01053,   Acc: 100.000%
+[2023-07-17 17:47:50,428 INFO] Epoch: 43, Batch_index:20,  Loss: 0.01104,   Acc: 100.000%
+[2023-07-17 17:47:50,429 INFO] Epoch: 43,   Loss: 0.21252,   Acc: 99.845%
+[2023-07-17 17:47:50,429 INFO] In testphase ... 
+[2023-07-17 17:47:50,669 INFO] Test Epoch: 43, micro f1: 0.699, macro f1: 0.431, kappa: 0.175
+[2023-07-17 17:47:50,670 INFO] [[ 12  37   6]
+ [ 26 338  15]
+ [  8  65  14]]
+[2023-07-17 17:47:50,746 INFO] Epoch: 44, Batch_index:0,  Loss: 0.00520,   Acc: 100.000%
+[2023-07-17 17:47:50,769 INFO] Epoch: 44, Batch_index:1,  Loss: 0.00544,   Acc: 100.000%
+[2023-07-17 17:47:50,846 INFO] Epoch: 44, Batch_index:2,  Loss: 0.00438,   Acc: 100.000%
+[2023-07-17 17:47:50,868 INFO] Epoch: 44, Batch_index:3,  Loss: 0.00278,   Acc: 100.000%
+[2023-07-17 17:47:50,944 INFO] Epoch: 44, Batch_index:4,  Loss: 0.00414,   Acc: 100.000%
+[2023-07-17 17:47:50,965 INFO] Epoch: 44, Batch_index:5,  Loss: 0.01287,   Acc: 100.000%
+[2023-07-17 17:47:51,048 INFO] Epoch: 44, Batch_index:6,  Loss: 0.00620,   Acc: 100.000%
+[2023-07-17 17:47:51,073 INFO] Epoch: 44, Batch_index:7,  Loss: 0.00212,   Acc: 100.000%
+[2023-07-17 17:47:51,148 INFO] Epoch: 44, Batch_index:8,  Loss: 0.00691,   Acc: 100.000%
+[2023-07-17 17:47:51,170 INFO] Epoch: 44, Batch_index:9,  Loss: 0.00159,   Acc: 100.000%
+[2023-07-17 17:47:51,250 INFO] Epoch: 44, Batch_index:10,  Loss: 0.00359,   Acc: 100.000%
+[2023-07-17 17:47:51,272 INFO] Epoch: 44, Batch_index:11,  Loss: 0.00337,   Acc: 100.000%
+[2023-07-17 17:47:51,349 INFO] Epoch: 44, Batch_index:12,  Loss: 0.01478,   Acc: 100.000%
+[2023-07-17 17:47:51,372 INFO] Epoch: 44, Batch_index:13,  Loss: 0.01143,   Acc: 100.000%
+[2023-07-17 17:47:51,448 INFO] Epoch: 44, Batch_index:14,  Loss: 0.00377,   Acc: 100.000%
+[2023-07-17 17:47:51,470 INFO] Epoch: 44, Batch_index:15,  Loss: 0.00211,   Acc: 100.000%
+[2023-07-17 17:47:51,548 INFO] Epoch: 44, Batch_index:16,  Loss: 0.00278,   Acc: 100.000%
+[2023-07-17 17:47:51,570 INFO] Epoch: 44, Batch_index:17,  Loss: 0.00278,   Acc: 100.000%
+[2023-07-17 17:47:51,645 INFO] Epoch: 44, Batch_index:18,  Loss: 0.00350,   Acc: 100.000%
+[2023-07-17 17:47:51,665 INFO] Epoch: 44, Batch_index:19,  Loss: 0.00343,   Acc: 100.000%
+[2023-07-17 17:47:51,674 INFO] Epoch: 44, Batch_index:20,  Loss: 0.02943,   Acc: 100.000%
+[2023-07-17 17:47:51,675 INFO] Epoch: 44,   Loss: 0.13263,   Acc: 100.000%
+[2023-07-17 17:47:51,675 INFO] In testphase ... 
+[2023-07-17 17:47:51,964 INFO] Test Epoch: 44, micro f1: 0.691, macro f1: 0.448, kappa: 0.189
+[2023-07-17 17:47:51,965 INFO] [[ 15  33   7]
+ [ 30 329  20]
+ [  7  64  16]]
+[2023-07-17 17:47:52,041 INFO] Epoch: 45, Batch_index:0,  Loss: 0.00621,   Acc: 100.000%
+[2023-07-17 17:47:52,061 INFO] Epoch: 45, Batch_index:1,  Loss: 0.00215,   Acc: 100.000%
+[2023-07-17 17:47:52,135 INFO] Epoch: 45, Batch_index:2,  Loss: 0.00213,   Acc: 100.000%
+[2023-07-17 17:47:52,157 INFO] Epoch: 45, Batch_index:3,  Loss: 0.00111,   Acc: 100.000%
+[2023-07-17 17:47:52,230 INFO] Epoch: 45, Batch_index:4,  Loss: 0.00293,   Acc: 100.000%
+[2023-07-17 17:47:52,250 INFO] Epoch: 45, Batch_index:5,  Loss: 0.00210,   Acc: 100.000%
+[2023-07-17 17:47:52,272 INFO] Epoch: 45, Batch_index:6,  Loss: 0.00170,   Acc: 100.000%
+[2023-07-17 17:47:52,348 INFO] Epoch: 45, Batch_index:7,  Loss: 0.00246,   Acc: 100.000%
+[2023-07-17 17:47:52,370 INFO] Epoch: 45, Batch_index:8,  Loss: 0.00180,   Acc: 100.000%
+[2023-07-17 17:47:52,445 INFO] Epoch: 45, Batch_index:9,  Loss: 0.00248,   Acc: 100.000%
+[2023-07-17 17:47:52,466 INFO] Epoch: 45, Batch_index:10,  Loss: 0.00247,   Acc: 100.000%
+[2023-07-17 17:47:52,544 INFO] Epoch: 45, Batch_index:11,  Loss: 0.00103,   Acc: 100.000%
+[2023-07-17 17:47:52,566 INFO] Epoch: 45, Batch_index:12,  Loss: 0.02628,   Acc: 98.438%
+[2023-07-17 17:47:52,642 INFO] Epoch: 45, Batch_index:13,  Loss: 0.00394,   Acc: 100.000%
+[2023-07-17 17:47:52,665 INFO] Epoch: 45, Batch_index:14,  Loss: 0.00235,   Acc: 100.000%
+[2023-07-17 17:47:52,737 INFO] Epoch: 45, Batch_index:15,  Loss: 0.00152,   Acc: 100.000%
+[2023-07-17 17:47:52,757 INFO] Epoch: 45, Batch_index:16,  Loss: 0.00630,   Acc: 100.000%
+[2023-07-17 17:47:52,830 INFO] Epoch: 45, Batch_index:17,  Loss: 0.00198,   Acc: 100.000%
+[2023-07-17 17:47:52,849 INFO] Epoch: 45, Batch_index:18,  Loss: 0.00155,   Acc: 100.000%
+[2023-07-17 17:47:52,870 INFO] Epoch: 45, Batch_index:19,  Loss: 0.00437,   Acc: 100.000%
+[2023-07-17 17:47:52,927 INFO] Epoch: 45, Batch_index:20,  Loss: 0.06819,   Acc: 100.000%
+[2023-07-17 17:47:52,928 INFO] Epoch: 45,   Loss: 0.14505,   Acc: 99.923%
+[2023-07-17 17:47:52,928 INFO] In testphase ... 
+[2023-07-17 17:47:53,266 INFO] Test Epoch: 45, micro f1: 0.683, macro f1: 0.448, kappa: 0.183
+[2023-07-17 17:47:53,268 INFO] [[ 16  32   7]
+ [ 32 324  23]
+ [  7  64  16]]
+[2023-07-17 17:47:53,344 INFO] Epoch: 46, Batch_index:0,  Loss: 0.00165,   Acc: 100.000%
+[2023-07-17 17:47:53,365 INFO] Epoch: 46, Batch_index:1,  Loss: 0.02590,   Acc: 98.438%
+[2023-07-17 17:47:53,437 INFO] Epoch: 46, Batch_index:2,  Loss: 0.00174,   Acc: 100.000%
+[2023-07-17 17:47:53,461 INFO] Epoch: 46, Batch_index:3,  Loss: 0.00419,   Acc: 100.000%
+[2023-07-17 17:47:53,530 INFO] Epoch: 46, Batch_index:4,  Loss: 0.05712,   Acc: 98.438%
+[2023-07-17 17:47:53,550 INFO] Epoch: 46, Batch_index:5,  Loss: 0.00277,   Acc: 100.000%
+[2023-07-17 17:47:53,571 INFO] Epoch: 46, Batch_index:6,  Loss: 0.00234,   Acc: 100.000%
+[2023-07-17 17:47:53,648 INFO] Epoch: 46, Batch_index:7,  Loss: 0.02968,   Acc: 98.438%
+[2023-07-17 17:47:53,670 INFO] Epoch: 46, Batch_index:8,  Loss: 0.00970,   Acc: 100.000%
+[2023-07-17 17:47:53,745 INFO] Epoch: 46, Batch_index:9,  Loss: 0.00617,   Acc: 100.000%
+[2023-07-17 17:47:53,767 INFO] Epoch: 46, Batch_index:10,  Loss: 0.00681,   Acc: 100.000%
+[2023-07-17 17:47:53,844 INFO] Epoch: 46, Batch_index:11,  Loss: 0.00337,   Acc: 100.000%
+[2023-07-17 17:47:53,866 INFO] Epoch: 46, Batch_index:12,  Loss: 0.00378,   Acc: 100.000%
+[2023-07-17 17:47:53,942 INFO] Epoch: 46, Batch_index:13,  Loss: 0.00262,   Acc: 100.000%
+[2023-07-17 17:47:53,962 INFO] Epoch: 46, Batch_index:14,  Loss: 0.00539,   Acc: 100.000%
+[2023-07-17 17:47:54,036 INFO] Epoch: 46, Batch_index:15,  Loss: 0.00267,   Acc: 100.000%
+[2023-07-17 17:47:54,056 INFO] Epoch: 46, Batch_index:16,  Loss: 0.00566,   Acc: 100.000%
+[2023-07-17 17:47:54,130 INFO] Epoch: 46, Batch_index:17,  Loss: 0.00315,   Acc: 100.000%
+[2023-07-17 17:47:54,152 INFO] Epoch: 46, Batch_index:18,  Loss: 0.00422,   Acc: 100.000%
+[2023-07-17 17:47:54,174 INFO] Epoch: 46, Batch_index:19,  Loss: 0.00401,   Acc: 100.000%
+[2023-07-17 17:47:54,236 INFO] Epoch: 46, Batch_index:20,  Loss: 0.00600,   Acc: 100.000%
+[2023-07-17 17:47:54,236 INFO] Epoch: 46,   Loss: 0.18892,   Acc: 99.768%
+[2023-07-17 17:47:54,236 INFO] In testphase ... 
+[2023-07-17 17:47:54,534 INFO] Test Epoch: 46, micro f1: 0.701, macro f1: 0.445, kappa: 0.202
+[2023-07-17 17:47:54,535 INFO] [[  9  36  10]
+ [ 27 334  18]
+ [  5  60  22]]
+[2023-07-17 17:47:54,556 INFO] Epoch: 47, Batch_index:0,  Loss: 0.00504,   Acc: 100.000%
+[2023-07-17 17:47:54,630 INFO] Epoch: 47, Batch_index:1,  Loss: 0.00531,   Acc: 100.000%
+[2023-07-17 17:47:54,651 INFO] Epoch: 47, Batch_index:2,  Loss: 0.00438,   Acc: 100.000%
+[2023-07-17 17:47:54,672 INFO] Epoch: 47, Batch_index:3,  Loss: 0.00279,   Acc: 100.000%
+[2023-07-17 17:47:54,752 INFO] Epoch: 47, Batch_index:4,  Loss: 0.00175,   Acc: 100.000%
+[2023-07-17 17:47:54,774 INFO] Epoch: 47, Batch_index:5,  Loss: 0.00252,   Acc: 100.000%
+[2023-07-17 17:47:54,848 INFO] Epoch: 47, Batch_index:6,  Loss: 0.00309,   Acc: 100.000%
+[2023-07-17 17:47:54,870 INFO] Epoch: 47, Batch_index:7,  Loss: 0.00210,   Acc: 100.000%
+[2023-07-17 17:47:54,947 INFO] Epoch: 47, Batch_index:8,  Loss: 0.00421,   Acc: 100.000%
+[2023-07-17 17:47:54,968 INFO] Epoch: 47, Batch_index:9,  Loss: 0.00310,   Acc: 100.000%
+[2023-07-17 17:47:55,043 INFO] Epoch: 47, Batch_index:10,  Loss: 0.00426,   Acc: 100.000%
+[2023-07-17 17:47:55,064 INFO] Epoch: 47, Batch_index:11,  Loss: 0.00614,   Acc: 100.000%
+[2023-07-17 17:47:55,136 INFO] Epoch: 47, Batch_index:12,  Loss: 0.00478,   Acc: 100.000%
+[2023-07-17 17:47:55,157 INFO] Epoch: 47, Batch_index:13,  Loss: 0.00803,   Acc: 100.000%
+[2023-07-17 17:47:55,230 INFO] Epoch: 47, Batch_index:14,  Loss: 0.00771,   Acc: 100.000%
+[2023-07-17 17:47:55,250 INFO] Epoch: 47, Batch_index:15,  Loss: 0.00293,   Acc: 100.000%
+[2023-07-17 17:47:55,271 INFO] Epoch: 47, Batch_index:16,  Loss: 0.00340,   Acc: 100.000%
+[2023-07-17 17:47:55,346 INFO] Epoch: 47, Batch_index:17,  Loss: 0.00563,   Acc: 100.000%
+[2023-07-17 17:47:55,367 INFO] Epoch: 47, Batch_index:18,  Loss: 0.00561,   Acc: 100.000%
+[2023-07-17 17:47:56,143 INFO] Epoch: 47, Batch_index:19,  Loss: 0.00188,   Acc: 100.000%
+[2023-07-17 17:47:56,152 INFO] Epoch: 47, Batch_index:20,  Loss: 0.00141,   Acc: 100.000%
+[2023-07-17 17:47:56,153 INFO] Epoch: 47,   Loss: 0.08609,   Acc: 100.000%
+[2023-07-17 17:47:56,153 INFO] In testphase ... 
+[2023-07-17 17:47:56,449 INFO] Test Epoch: 47, micro f1: 0.695, macro f1: 0.454, kappa: 0.207
+[2023-07-17 17:47:56,450 INFO] [[ 13  32  10]
+ [ 31 329  19]
+ [  6  61  20]]
+[2023-07-17 17:47:56,471 INFO] Epoch: 48, Batch_index:0,  Loss: 0.00992,   Acc: 100.000%
+[2023-07-17 17:47:56,546 INFO] Epoch: 48, Batch_index:1,  Loss: 0.00346,   Acc: 100.000%
+[2023-07-17 17:47:56,567 INFO] Epoch: 48, Batch_index:2,  Loss: 0.00385,   Acc: 100.000%
+[2023-07-17 17:47:56,644 INFO] Epoch: 48, Batch_index:3,  Loss: 0.00225,   Acc: 100.000%
+[2023-07-17 17:47:56,666 INFO] Epoch: 48, Batch_index:4,  Loss: 0.00522,   Acc: 100.000%
+[2023-07-17 17:47:56,738 INFO] Epoch: 48, Batch_index:5,  Loss: 0.00244,   Acc: 100.000%
+[2023-07-17 17:47:56,758 INFO] Epoch: 48, Batch_index:6,  Loss: 0.00503,   Acc: 100.000%
+[2023-07-17 17:47:56,829 INFO] Epoch: 48, Batch_index:7,  Loss: 0.00181,   Acc: 100.000%
+[2023-07-17 17:47:56,849 INFO] Epoch: 48, Batch_index:8,  Loss: 0.00299,   Acc: 100.000%
+[2023-07-17 17:47:56,870 INFO] Epoch: 48, Batch_index:9,  Loss: 0.00225,   Acc: 100.000%
+[2023-07-17 17:47:56,947 INFO] Epoch: 48, Batch_index:10,  Loss: 0.00248,   Acc: 100.000%
+[2023-07-17 17:47:56,969 INFO] Epoch: 48, Batch_index:11,  Loss: 0.00235,   Acc: 100.000%
+[2023-07-17 17:47:57,044 INFO] Epoch: 48, Batch_index:12,  Loss: 0.00246,   Acc: 100.000%
+[2023-07-17 17:47:57,066 INFO] Epoch: 48, Batch_index:13,  Loss: 0.00290,   Acc: 100.000%
+[2023-07-17 17:47:57,143 INFO] Epoch: 48, Batch_index:14,  Loss: 0.00127,   Acc: 100.000%
+[2023-07-17 17:47:57,166 INFO] Epoch: 48, Batch_index:15,  Loss: 0.00135,   Acc: 100.000%
+[2023-07-17 17:47:57,239 INFO] Epoch: 48, Batch_index:16,  Loss: 0.00105,   Acc: 100.000%
+[2023-07-17 17:47:57,262 INFO] Epoch: 48, Batch_index:17,  Loss: 0.00174,   Acc: 100.000%
+[2023-07-17 17:47:57,336 INFO] Epoch: 48, Batch_index:18,  Loss: 0.00138,   Acc: 100.000%
+[2023-07-17 17:47:57,356 INFO] Epoch: 48, Batch_index:19,  Loss: 0.00167,   Acc: 100.000%
+[2023-07-17 17:47:57,365 INFO] Epoch: 48, Batch_index:20,  Loss: 0.00107,   Acc: 100.000%
+[2023-07-17 17:47:57,365 INFO] Epoch: 48,   Loss: 0.05893,   Acc: 100.000%
+[2023-07-17 17:47:57,365 INFO] In testphase ... 
+[2023-07-17 17:47:57,654 INFO] Test Epoch: 48, micro f1: 0.681, macro f1: 0.436, kappa: 0.175
+[2023-07-17 17:47:57,655 INFO] [[ 13  32  10]
+ [ 32 325  22]
+ [  6  64  17]]
+[2023-07-17 17:47:57,675 INFO] Epoch: 49, Batch_index:0,  Loss: 0.00198,   Acc: 100.000%
+[2023-07-17 17:47:57,750 INFO] Epoch: 49, Batch_index:1,  Loss: 0.00204,   Acc: 100.000%
+[2023-07-17 17:47:57,772 INFO] Epoch: 49, Batch_index:2,  Loss: 0.00205,   Acc: 100.000%
+[2023-07-17 17:47:57,847 INFO] Epoch: 49, Batch_index:3,  Loss: 0.00191,   Acc: 100.000%
+[2023-07-17 17:47:57,867 INFO] Epoch: 49, Batch_index:4,  Loss: 0.00089,   Acc: 100.000%
+[2023-07-17 17:47:57,945 INFO] Epoch: 49, Batch_index:5,  Loss: 0.00199,   Acc: 100.000%
+[2023-07-17 17:47:57,968 INFO] Epoch: 49, Batch_index:6,  Loss: 0.00155,   Acc: 100.000%
+[2023-07-17 17:47:58,049 INFO] Epoch: 49, Batch_index:7,  Loss: 0.00181,   Acc: 100.000%
+[2023-07-17 17:47:58,072 INFO] Epoch: 49, Batch_index:8,  Loss: 0.00142,   Acc: 100.000%
+[2023-07-17 17:47:58,148 INFO] Epoch: 49, Batch_index:9,  Loss: 0.00099,   Acc: 100.000%
+[2023-07-17 17:47:58,170 INFO] Epoch: 49, Batch_index:10,  Loss: 0.00150,   Acc: 100.000%
+[2023-07-17 17:47:58,245 INFO] Epoch: 49, Batch_index:11,  Loss: 0.00091,   Acc: 100.000%
+[2023-07-17 17:47:58,267 INFO] Epoch: 49, Batch_index:12,  Loss: 0.00102,   Acc: 100.000%
+[2023-07-17 17:47:58,343 INFO] Epoch: 49, Batch_index:13,  Loss: 0.00223,   Acc: 100.000%
+[2023-07-17 17:47:58,364 INFO] Epoch: 49, Batch_index:14,  Loss: 0.00133,   Acc: 100.000%
+[2023-07-17 17:47:58,439 INFO] Epoch: 49, Batch_index:15,  Loss: 0.00086,   Acc: 100.000%
+[2023-07-17 17:47:58,461 INFO] Epoch: 49, Batch_index:16,  Loss: 0.00063,   Acc: 100.000%
+[2023-07-17 17:47:58,535 INFO] Epoch: 49, Batch_index:17,  Loss: 0.00172,   Acc: 100.000%
+[2023-07-17 17:47:58,557 INFO] Epoch: 49, Batch_index:18,  Loss: 0.00123,   Acc: 100.000%
+[2023-07-17 17:47:58,630 INFO] Epoch: 49, Batch_index:19,  Loss: 0.00171,   Acc: 100.000%
+[2023-07-17 17:47:58,639 INFO] Epoch: 49, Batch_index:20,  Loss: 0.00468,   Acc: 100.000%
+[2023-07-17 17:47:58,640 INFO] Epoch: 49,   Loss: 0.03443,   Acc: 100.000%
+[2023-07-17 17:47:58,640 INFO] In testphase ... 
+[2023-07-17 17:47:58,934 INFO] Test Epoch: 49, micro f1: 0.691, macro f1: 0.444, kappa: 0.184
+[2023-07-17 17:47:58,935 INFO] [[ 14  33   8]
+ [ 30 330  19]
+ [  6  65  16]]
+[2023-07-17 17:47:58,936 INFO] In test phase for each action...
+[2023-07-17 17:47:58,938 INFO] Class i: 0, Micro F1: 0.654, macro F1: 0.337, kappa: 0.021
+[2023-07-17 17:47:58,938 INFO] [[ 3 12  0]
+ [ 8 48  1]
+ [ 0  6  0]]
+[2023-07-17 17:47:58,940 INFO] Class i: 1, Micro F1: 0.641, macro F1: 0.462, kappa: 0.269
+[2023-07-17 17:47:58,940 INFO] [[ 6  4  5]
+ [ 8 42  3]
+ [ 2  6  2]]
+[2023-07-17 17:47:58,942 INFO] Class i: 2, Micro F1: 0.718, macro F1: 0.353, kappa: 0.081
+[2023-07-17 17:47:58,942 INFO] [[ 0  1  0]
+ [ 1 53  5]
+ [ 0 15  3]]
+[2023-07-17 17:47:58,944 INFO] Class i: 3, Micro F1: 0.385, macro F1: 0.357, kappa: 0.005
+[2023-07-17 17:47:58,944 INFO] [[5 3 3]
+ [7 4 0]
+ [2 1 1]]
+[2023-07-17 17:47:58,946 INFO] Class i: 4, Micro F1: 0.500, macro F1: 0.327, kappa: 0.095
+[2023-07-17 17:47:58,947 INFO] [[ 0  3  0]
+ [ 2 29  5]
+ [ 2 27 10]]
+[2023-07-17 17:47:58,948 INFO] Class i: 5, Micro F1: 0.795, macro F1: 0.443, kappa: -0.106
+[2023-07-17 17:47:58,949 INFO] [[31  5]
+ [ 3  0]]
+[2023-07-17 17:47:58,951 INFO] Class i: 6, Micro F1: 0.854, macro F1: 0.307, kappa: -0.037
+[2023-07-17 17:47:58,951 INFO] [[  0  10   0]
+ [  4 123   0]
+ [  0   7   0]]
+[2023-07-17 17:47:59,139 INFO] Epoch: 0, Batch_index:0,  Loss: 1.22098,   Acc: 10.938%
+[2023-07-17 17:47:59,159 INFO] Epoch: 0, Batch_index:1,  Loss: 1.06768,   Acc: 50.000%
+[2023-07-17 17:47:59,230 INFO] Epoch: 0, Batch_index:2,  Loss: 1.00302,   Acc: 59.375%
+[2023-07-17 17:47:59,250 INFO] Epoch: 0, Batch_index:3,  Loss: 0.91838,   Acc: 68.750%
+[2023-07-17 17:47:59,269 INFO] Epoch: 0, Batch_index:4,  Loss: 0.75560,   Acc: 84.375%
+[2023-07-17 17:47:59,346 INFO] Epoch: 0, Batch_index:5,  Loss: 0.88567,   Acc: 64.062%
+[2023-07-17 17:47:59,368 INFO] Epoch: 0, Batch_index:6,  Loss: 0.83106,   Acc: 67.188%
+[2023-07-17 17:47:59,443 INFO] Epoch: 0, Batch_index:7,  Loss: 0.75319,   Acc: 71.875%
+[2023-07-17 17:47:59,464 INFO] Epoch: 0, Batch_index:8,  Loss: 0.66287,   Acc: 79.688%
+[2023-07-17 17:47:59,538 INFO] Epoch: 0, Batch_index:9,  Loss: 0.80505,   Acc: 68.750%
+[2023-07-17 17:47:59,558 INFO] Epoch: 0, Batch_index:10,  Loss: 0.70445,   Acc: 75.000%
+[2023-07-17 17:47:59,578 INFO] Epoch: 0, Batch_index:11,  Loss: 0.77558,   Acc: 70.312%
+[2023-07-17 17:47:59,649 INFO] Epoch: 0, Batch_index:12,  Loss: 0.72563,   Acc: 75.000%
+[2023-07-17 17:47:59,671 INFO] Epoch: 0, Batch_index:13,  Loss: 0.78112,   Acc: 71.875%
+[2023-07-17 17:47:59,746 INFO] Epoch: 0, Batch_index:14,  Loss: 0.76982,   Acc: 71.875%
+[2023-07-17 17:47:59,766 INFO] Epoch: 0, Batch_index:15,  Loss: 0.93919,   Acc: 62.500%
+[2023-07-17 17:47:59,844 INFO] Epoch: 0, Batch_index:16,  Loss: 0.91370,   Acc: 62.500%
+[2023-07-17 17:47:59,866 INFO] Epoch: 0, Batch_index:17,  Loss: 0.72510,   Acc: 71.875%
+[2023-07-17 17:47:59,943 INFO] Epoch: 0, Batch_index:18,  Loss: 0.76541,   Acc: 70.312%
+[2023-07-17 17:47:59,964 INFO] Epoch: 0, Batch_index:19,  Loss: 0.79067,   Acc: 67.188%
+[2023-07-17 17:47:59,973 INFO] Epoch: 0, Batch_index:20,  Loss: 0.95104,   Acc: 54.545%
+[2023-07-17 17:47:59,973 INFO] Epoch: 0,   Loss: 17.74518,   Acc: 66.073%
+[2023-07-17 17:47:59,973 INFO] In testphase ... 
+[2023-07-17 17:48:00,265 INFO] Test Epoch: 0, micro f1: 0.729, macro f1: 0.311, kappa: 0.028
+[2023-07-17 17:48:00,266 INFO] [[  2  53   0]
+ [  2 377   0]
+ [  0  86   1]]
+[2023-07-17 17:48:00,343 INFO] Epoch: 1, Batch_index:0,  Loss: 0.69833,   Acc: 73.438%
+[2023-07-17 17:48:00,365 INFO] Epoch: 1, Batch_index:1,  Loss: 0.79161,   Acc: 67.188%
+[2023-07-17 17:48:00,434 INFO] Epoch: 1, Batch_index:2,  Loss: 0.64639,   Acc: 76.562%
+[2023-07-17 17:48:00,456 INFO] Epoch: 1, Batch_index:3,  Loss: 0.74375,   Acc: 67.188%
+[2023-07-17 17:48:00,528 INFO] Epoch: 1, Batch_index:4,  Loss: 0.71551,   Acc: 67.188%
+[2023-07-17 17:48:00,549 INFO] Epoch: 1, Batch_index:5,  Loss: 0.83269,   Acc: 64.062%
+[2023-07-17 17:48:00,570 INFO] Epoch: 1, Batch_index:6,  Loss: 0.81970,   Acc: 67.188%
+[2023-07-17 17:48:00,645 INFO] Epoch: 1, Batch_index:7,  Loss: 0.67056,   Acc: 75.000%
+[2023-07-17 17:48:00,668 INFO] Epoch: 1, Batch_index:8,  Loss: 0.72121,   Acc: 67.188%
+[2023-07-17 17:48:00,744 INFO] Epoch: 1, Batch_index:9,  Loss: 0.60706,   Acc: 84.375%
+[2023-07-17 17:48:00,764 INFO] Epoch: 1, Batch_index:10,  Loss: 0.71951,   Acc: 71.875%
+[2023-07-17 17:48:00,839 INFO] Epoch: 1, Batch_index:11,  Loss: 0.66020,   Acc: 79.688%
+[2023-07-17 17:48:00,861 INFO] Epoch: 1, Batch_index:12,  Loss: 0.76720,   Acc: 67.188%
+[2023-07-17 17:48:00,934 INFO] Epoch: 1, Batch_index:13,  Loss: 0.75564,   Acc: 68.750%
+[2023-07-17 17:48:00,956 INFO] Epoch: 1, Batch_index:14,  Loss: 0.62251,   Acc: 78.125%
+[2023-07-17 17:48:01,030 INFO] Epoch: 1, Batch_index:15,  Loss: 0.61865,   Acc: 75.000%
+[2023-07-17 17:48:01,051 INFO] Epoch: 1, Batch_index:16,  Loss: 0.63347,   Acc: 75.000%
+[2023-07-17 17:48:01,073 INFO] Epoch: 1, Batch_index:17,  Loss: 0.72846,   Acc: 71.875%
+[2023-07-17 17:48:01,150 INFO] Epoch: 1, Batch_index:18,  Loss: 0.45245,   Acc: 89.062%
+[2023-07-17 17:48:01,172 INFO] Epoch: 1, Batch_index:19,  Loss: 0.59735,   Acc: 78.125%
+[2023-07-17 17:48:01,237 INFO] Epoch: 1, Batch_index:20,  Loss: 0.67618,   Acc: 72.727%
+[2023-07-17 17:48:01,237 INFO] Epoch: 1,   Loss: 14.47843,   Acc: 73.199%
+[2023-07-17 17:48:01,237 INFO] In testphase ... 
+[2023-07-17 17:48:01,535 INFO] Test Epoch: 1, micro f1: 0.724, macro f1: 0.350, kappa: 0.067
+[2023-07-17 17:48:01,536 INFO] [[  7  48   0]
+ [ 10 369   0]
+ [  2  84   1]]
+[2023-07-17 17:48:01,556 INFO] Epoch: 2, Batch_index:0,  Loss: 0.59618,   Acc: 71.875%
+[2023-07-17 17:48:01,630 INFO] Epoch: 2, Batch_index:1,  Loss: 0.48437,   Acc: 81.250%
+[2023-07-17 17:48:01,652 INFO] Epoch: 2, Batch_index:2,  Loss: 0.67552,   Acc: 71.875%
+[2023-07-17 17:48:01,674 INFO] Epoch: 2, Batch_index:3,  Loss: 0.53076,   Acc: 79.688%
+[2023-07-17 17:48:01,747 INFO] Epoch: 2, Batch_index:4,  Loss: 0.62847,   Acc: 73.438%
+[2023-07-17 17:48:01,767 INFO] Epoch: 2, Batch_index:5,  Loss: 0.56568,   Acc: 75.000%
+[2023-07-17 17:48:01,845 INFO] Epoch: 2, Batch_index:6,  Loss: 0.57973,   Acc: 73.438%
+[2023-07-17 17:48:01,867 INFO] Epoch: 2, Batch_index:7,  Loss: 0.57311,   Acc: 75.000%
+[2023-07-17 17:48:01,945 INFO] Epoch: 2, Batch_index:8,  Loss: 0.68628,   Acc: 65.625%
+[2023-07-17 17:48:01,967 INFO] Epoch: 2, Batch_index:9,  Loss: 0.61479,   Acc: 75.000%
+[2023-07-17 17:48:02,043 INFO] Epoch: 2, Batch_index:10,  Loss: 0.59533,   Acc: 71.875%
+[2023-07-17 17:48:02,066 INFO] Epoch: 2, Batch_index:11,  Loss: 0.49157,   Acc: 79.688%
+[2023-07-17 17:48:02,143 INFO] Epoch: 2, Batch_index:12,  Loss: 0.44823,   Acc: 85.938%
+[2023-07-17 17:48:02,165 INFO] Epoch: 2, Batch_index:13,  Loss: 0.55425,   Acc: 75.000%
+[2023-07-17 17:48:02,234 INFO] Epoch: 2, Batch_index:14,  Loss: 0.50010,   Acc: 79.688%
+[2023-07-17 17:48:02,255 INFO] Epoch: 2, Batch_index:15,  Loss: 0.48409,   Acc: 82.812%
+[2023-07-17 17:48:02,331 INFO] Epoch: 2, Batch_index:16,  Loss: 0.54368,   Acc: 76.562%
+[2023-07-17 17:48:02,355 INFO] Epoch: 2, Batch_index:17,  Loss: 0.48302,   Acc: 82.812%
+[2023-07-17 17:48:02,431 INFO] Epoch: 2, Batch_index:18,  Loss: 0.48673,   Acc: 85.938%
+[2023-07-17 17:48:02,455 INFO] Epoch: 2, Batch_index:19,  Loss: 0.65159,   Acc: 70.312%
+[2023-07-17 17:48:02,466 INFO] Epoch: 2, Batch_index:20,  Loss: 0.61198,   Acc: 72.727%
+[2023-07-17 17:48:02,466 INFO] Epoch: 2,   Loss: 11.78547,   Acc: 76.607%
+[2023-07-17 17:48:02,466 INFO] In testphase ... 
+[2023-07-17 17:48:02,769 INFO] Test Epoch: 2, micro f1: 0.731, macro f1: 0.423, kappa: 0.159
+[2023-07-17 17:48:02,770 INFO] [[ 10  42   3]
+ [ 12 362   5]
+ [  2  76   9]]
+[2023-07-17 17:48:02,847 INFO] Epoch: 3, Batch_index:0,  Loss: 0.39826,   Acc: 85.938%
+[2023-07-17 17:48:02,870 INFO] Epoch: 3, Batch_index:1,  Loss: 0.51011,   Acc: 75.000%
+[2023-07-17 17:48:02,946 INFO] Epoch: 3, Batch_index:2,  Loss: 0.50071,   Acc: 78.125%
+[2023-07-17 17:48:02,969 INFO] Epoch: 3, Batch_index:3,  Loss: 0.37408,   Acc: 85.938%
+[2023-07-17 17:48:03,045 INFO] Epoch: 3, Batch_index:4,  Loss: 0.45833,   Acc: 82.812%
+[2023-07-17 17:48:03,068 INFO] Epoch: 3, Batch_index:5,  Loss: 0.47165,   Acc: 82.812%
+[2023-07-17 17:48:03,145 INFO] Epoch: 3, Batch_index:6,  Loss: 0.44897,   Acc: 78.125%
+[2023-07-17 17:48:03,168 INFO] Epoch: 3, Batch_index:7,  Loss: 0.43133,   Acc: 85.938%
